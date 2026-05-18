@@ -1,0 +1,23 @@
+{
+    "id": 5,
+    "slug": "karnaphuli",
+    "name_en": "Karnaphuli",
+    "name_bn": "কর্ণফুলী",
+    "classification_en": "Hill River",
+    "classification_bn": "পাহাড়ি নদী",
+    "parent_river_en": "Chittagong Hill Tracts System",
+    "parent_river_bn": "চট্টগ্রাম পার্বত্য নদী ব্যবস্থা",
+    "origin_en": "Mizoram, India",
+    "origin_bn": "মিজোরাম, ভারত",
+    "length_km": 161,
+    "details_en": "The Karnaphuli River is a major river in southeastern Bangladesh and is vital for Chattogram Port and hydroelectric power generation.",
+    "details_bn": "কর্ণফুলী দক্ষিণ-পূর্ব বাংলাদেশের একটি প্রধান নদী এবং চট্টগ্রাম বন্দর ও জলবিদ্যুৎ উৎপাদনের জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+    "divisions_en": [
+        "Chattogram"
+    ],
+    "divisions_bn": [
+        "চট্টগ্রাম"
+    ],
+    "encoded_path": "",
+    "updated_at": "2026-05-18"
+}

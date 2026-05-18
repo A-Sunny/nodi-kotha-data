@@ -1,0 +1,25 @@
+{
+    "id": 2,
+    "slug": "jamuna",
+    "name_en": "Jamuna",
+    "name_bn": "যমুনা",
+    "classification_en": "Major River",
+    "classification_bn": "প্রধান নদী",
+    "parent_river_en": "Brahmaputra",
+    "parent_river_bn": "ব্রহ্মপুত্র",
+    "origin_en": "Tibet",
+    "origin_bn": "তিব্বত",
+    "length_km": 205,
+    "details_en": "The Jamuna is one of the three main rivers of Bangladesh and the main channel of the Brahmaputra River in Bangladesh.",
+    "details_bn": "যমুনা বাংলাদেশের প্রধান তিনটি নদীর একটি এবং বাংলাদেশে ব্রহ্মপুত্র নদীর প্রধান প্রবাহ।",
+    "divisions_en": [
+        "Rajshahi",
+        "Dhaka"
+    ],
+    "divisions_bn": [
+        "রাজশাহী",
+        "ঢাকা"
+    ],
+    "encoded_path": "",
+    "updated_at": "2026-05-18"
+}

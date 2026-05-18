@@ -1,0 +1,27 @@
+{
+    "id": 3,
+    "slug": "meghna",
+    "name_en": "Meghna",
+    "name_bn": "মেঘনা",
+    "classification_en": "Major River",
+    "classification_bn": "প্রধান নদী",
+    "parent_river_en": "Surma-Meghna System",
+    "parent_river_bn": "সুরমা-মেঘনা ব্যবস্থা",
+    "origin_en": "Assam, India",
+    "origin_bn": "আসাম, ভারত",
+    "length_km": 156,
+    "details_en": "The Meghna is one of the major rivers of Bangladesh and forms the largest estuarine system in the country.",
+    "details_bn": "মেঘনা বাংলাদেশের অন্যতম প্রধান নদী এবং দেশের বৃহত্তম মোহনা ব্যবস্থা গঠন করেছে।",
+    "divisions_en": [
+        "Sylhet",
+        "Dhaka",
+        "Chattogram"
+    ],
+    "divisions_bn": [
+        "সিলেট",
+        "ঢাকা",
+        "চট্টগ্রাম"
+    ],
+    "encoded_path": "",
+    "updated_at": "2026-05-18"
+}
