@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "slug": "padma",
+        "name_en": "Padma",
+        "name_bn": "পদ্মা"
+    },
+    {
+        "id": 2,
+        "slug": "jamuna",
+        "name_en": "Jamuna",
+        "name_bn": "যমুনা"
+    },
+    {
+        "id": 3,
+        "slug": "meghna",
+        "name_en": "Meghna",
+        "name_bn": "মেঘনা"
+    },
+    {
+        "id": 4,
+        "slug": "buriganga",
+        "name_en": "Buriganga",
+        "name_bn": "বুড়িগঙ্গা"
+    },
+    {
+        "id": 5,
+        "slug": "karnaphuli",
+        "name_en": "Karnaphuli",
+        "name_bn": "কর্ণফুলী"
+    }
+]

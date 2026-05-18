@@ -1,0 +1,27 @@
+{
+    "id": 1,
+    "slug": "padma",
+    "name_en": "Padma",
+    "name_bn": "পদ্মা",
+    "classification_en": "Major River",
+    "classification_bn": "প্রধান নদী",
+    "parent_river_en": "Ganges",
+    "parent_river_bn": "গঙ্গা",
+    "origin_en": "India",
+    "origin_bn": "ভারত",
+    "length_km": 121,
+    "details_en": "The Padma is one of the major rivers of Bangladesh and the main distributary of the Ganges.",
+    "details_bn": "পদ্মা বাংলাদেশের অন্যতম প্রধান নদী এবং গঙ্গার প্রধান শাখা।",
+    "divisions_en": [
+        "Rajshahi",
+        "Dhaka",
+        "Khulna"
+    ],
+    "divisions_bn": [
+        "রাজশাহী",
+        "ঢাকা",
+        "খুলনা"
+    ],
+    "encoded_path": "",
+    "updated_at": "2026-05-18"
+}
