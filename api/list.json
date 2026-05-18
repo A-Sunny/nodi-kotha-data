@@ -34,5 +34,12 @@
         "slug": "surma",
         "name_en": "Surma",
         "name_bn": "সুরমা"
+    },
+
+    {
+        "id": 7,
+        "slug": "bangshi",
+        "name_en": "Bangshi River",
+        "name_bn": "বংশী নদী"
     }
 ]
