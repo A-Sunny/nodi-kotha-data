@@ -1,4 +1,4 @@
-# Nodi-Kotha Data Repository
+# Nodi-Kotha Data
 
 This repository contains the public JSON-based river dataset powering the Nodi-Kotha Android application.
 
@@ -26,3 +26,7 @@ The Android application fetches river metadata and optimized geometry data direc
 
 ```text
 /api/list.json
+    |-rivers
+        |-padma.json
+        |-meghna.json
+        .....
