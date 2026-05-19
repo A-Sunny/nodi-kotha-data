@@ -10,7 +10,6 @@ Nodi-Kotha is a lightweight bilingual digital river atlas of Bangladesh designed
 - Bangla and English support
 - Offline-first architecture
 - Low-end device optimization
-- Zero-cost scalable infrastructure
 
 ## Repository Purpose
 
