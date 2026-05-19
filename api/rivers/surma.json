@@ -3,18 +3,22 @@
     "slug": "surma",
     "name_en": "Surma",
     "name_bn": "সুরমা",
-    "classification_en": "Major River",
-    "classification_bn": "প্রধান নদী",
-    "parent_river_en": "Brahmaputra",
-    "parent_river_bn": "ব্রহ্মপুত্র",
-    "origin_en": "Tibet",
-    "origin_bn": "তিব্বত",
-    "length_km": 205,
-    "details_en": "The Jamuna is one of the three main rivers of Bangladesh and the main channel of the Brahmaputra River in Bangladesh.",
-    "details_bn": "যমুনা বাংলাদেশের প্রধান তিনটি নদীর একটি এবং বাংলাদেশে ব্রহ্মপুত্র নদীর প্রধান প্রবাহ।",
+    "classification_en": "Transboundary River",
+    "classification_bn": "আন্তঃসীমান্ত নদী",
+    "parent_river_en": "Barak",
+    "parent_river_bn": "বরাক",
+    "origin_en": "Barak River (at Amalshid, split from the Naga-Manipur hills watershed)",
+    "origin_bn": "বরাক নদী (অমলসিদ সীমান্ত, যা নাগা-মণিপুর পাহাড়ের জলবিভাজিকা থেকে উৎপন্ন)",
+    "length_km": 249,
+    "details_en": "The Surma River is one of the most prominent transboundary rivers in northeastern Bangladesh, serving as a vital geographical and economic lifeline for the Sylhet region. Originating from the Barak River in India, it enters Bangladesh at the Amalshid border in Zakiganj, splitting into the Surma and Kushiyara branches. Flowing past major cities like Sylhet and Sunamganj, the river finally reunites with the Kushiyara in Kishoreganj to form the mighty Meghna River. Historically, the Surma has been a bustling route for trade, navigation, and agriculture, deeply embedded in the folk culture and heritage of the region. However, the river currently faces severe environmental threats. Siltation at its source and along its course has created massive riverbeds and shoals, causing acute navigability crises during the winter dry season. Conversely, during the monsoon, heavy rainfall from the upstream Meghalaya hills often leads to devastating flash floods. Unplanned urban waste dumping, plastic pollution, and illegal encroachment have further threatened its aquatic ecosystem, making extensive dredging and cross-border water management essential for its survival.",
+    "details_bn": "সুরমা নদী বাংলাদেশের উত্তর-পূর্বাঞ্চলের একটি অন্যতম প্রধান আন্তঃসীমান্ত নদী, যা সিলেট অঞ্চলের ভৌগোলিক ও অর্থনৈতিক জীবনরেখা হিসেবে পরিচিত। ভারতের মণিপুর পাহাড়ে উৎপন্ন বরাক নদী সিলেট জেলার জকিগঞ্জের অমলশিদ সীমান্ত দিয়ে সুরমা ও কুশিয়ারা নামে দুটি শাখায় বিভক্ত হয়ে বাংলাদেশে প্রবেশ করেছে। নদীটি সিলেট ও সুনামগঞ্জ শহরের বুক চিরে প্রবাহিত হয়ে পরবর্তীতে কিশোরগঞ্জ জেলায় কুশিয়ারার সাথে পুনরায় মিলিত হয়ে মেঘনা নদী গঠন করেছে। ঐতিহাসিকভাবেই সুরমা এই অঞ্চলের ব্যবসা-বাণিজ্য, নৌযোগাযোগ ও কৃষিকাজের প্রধান উৎস এবং সিলেটের লোকসংস্কৃতির এক অবিচ্ছেদ্য অংশ। তবে বর্তমানে সুরমা নদী চরম অস্তিত্ব সংকটে ভুগছে। উৎস মুখে এবং নদীর বিভিন্ন অংশে অতিরিক্ত পলি জমার কারণে অসংখ্য চর জেগে উঠেছে, যার ফলে শুষ্ক মৌসুমে তীব্র নাব্যতা সংকট দেখা দেয় এবং নদীটি মরাগাঙে পরিণত হয়। অন্যদিকে, বর্ষা মৌসুমে ভারতের মেঘালয় পাহাড়ের অতিরিক্ত বৃষ্টিপাতের ফলে এই নদী অববাহিকায় প্রায়ই ভয়াবহ আকস্মিক বন্যা দেখা দেয়। এছাড়া অপরিকল্পিত নগর বর্জ্য, পলিথিন দূষণ ও অবৈধ দখলের কারণে নদীর তলদেশ ভরাট হয়ে জলজ জীববৈচিত্র্য মারাত্মক হুমকির মুখে পড়েছে। নদীটিকে বাঁচাতে নিয়মিত ড্রেজিং এবং দীর্ঘমেয়াদি সীমান্ত নদী ব্যবস্থাপনা অত্যন্ত জরুরি।",
     "divisions_en": [
-        "Rajshahi",
+        "Sylhet",
         "Dhaka"
+    ],
+    "divisions_bn": [
+        "সিলেট",
+        "ঢাকা"
     ],
     "divisions_bn": [
         "রাজশাহী",
