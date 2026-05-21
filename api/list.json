@@ -41,4 +41,11 @@
         "name_en": "Bangshi River",
         "name_bn": "বংশী নদী"
     }
+
+    {
+        "id": 8,
+        "slug": "atrai",
+        "name_en": "Atrai River",
+        "name_bn": "আত্রাই নদী"
+    }
 ]
