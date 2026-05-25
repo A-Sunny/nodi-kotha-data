@@ -61,5 +61,36 @@
         "slug": "bramhaputra",
         "name_en": "Brahmaputra River",
         "name_bn": "ব্রহ্মপুত্র নদী"
+    },
+    {
+        "id": 11,
+        "slug": "teesta",
+        "name_en": "Teesta River",
+        "name_bn": "তিস্তা নদী"
+    },
+    {
+        "id": 12,
+        "slug": "kushiyara",
+        "name_en": "Kushiyara",
+        "name_bn": "কুশিয়ারা"
+    },
+    {
+        "id": 13,
+        "slug": "mahananda",
+        "name_en": "Mahananda River",
+        "name_bn": "মহানন্দা নদী"
+    },
+    {
+        "id": 14,
+        "slug": "old-brahmaputra",
+        "name_en": "Old Brahmaputra River",
+        "name_bn": "পুরনো ব্রহ্মপুত্র নদী"
+    },
+    {
+        "id": 15,
+        "slug": "shitalakshya",
+        "name_en": "Shitalakshya River",
+        "name_bn": "শিতালাক্ষ্য নদী"
     }
+    
 ]
