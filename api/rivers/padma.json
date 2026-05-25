@@ -7,20 +7,50 @@
     "classification_bn": "প্রধান নদী",
     "parent_river_en": "Ganges",
     "parent_river_bn": "গঙ্গা",
-    "origin_en": "India",
-    "origin_bn": "ভারত",
-    "length_km": 121,
-    "details_en": "The Padma is one of the major rivers of Bangladesh and the main distributary of the Ganges.",
-    "details_bn": "পদ্মা বাংলাদেশের অন্যতম প্রধান নদী এবং গঙ্গার প্রধান শাখা।",
+    "origin_en": "Gangotri Glacier (Himalayas)",
+    "origin_bn": "গঙ্গোত্রী হিমবাহ (হিমালয়)",
+    "length_km": 120,
+    "details_en": "The Padma is one of the major rivers of Bangladesh, acting as the main distributary of the Ganges, and is famous for its massive volume and the iconic Padma Bridge.",
+    "details_bn": "পদ্মা বাংলাদেশের অন্যতম প্রধান নদী যা গঙ্গা নদীর প্রধান শাখা, এবং এটি এর বিশাল জলপ্রবাহ ও ঐতিহ্যবাহী পদ্মা সেতুর জন্য অত্যন্ত পরিচিত।",
     "divisions_en": [
         "Rajshahi",
         "Dhaka",
-        "Khulna"
+        "Khulna",
+        "Barisal",
+        "Dhaka"
     ],
     "divisions_bn": [
         "রাজশাহী",
         "ঢাকা",
-        "খুলনা"
+        "খুলনা",
+        "বরিশাল",
+        "ঢাকা"
+    ],
+    "Districts_en": [
+        "Chapai Nawabganj (This is where the Ganges enters Bangladesh and becomes the Padma)",
+        "Rajshahi",
+        "Kushtia",
+        "Pabna",
+        "Rajbari",
+        "Faridpur",
+        "Manikganj (This is where the Jamuna River meets the Padma at Aricha)",
+        "Munshiganj (This is where the Padma Bridge connects to Madaripur/Shariatpur)",
+        "Madaripur",
+        "Shariatpur",
+        "Chandpur (This is where the Padma joins the Meghna River before flowing into the Bay of Bengal)"
+    ],
+    "Districts_bn": [
+        "চাঁপাইনবাবগঞ্জ (এখান দিয়েই মূলত গঙ্গা নদী বাংলাদেশে প্রবেশ করে পদ্মা নাম ধারণ করে)",
+        "রাজশাহী",
+        "কুষ্টিয়া",
+        "পাবনা",
+        "রাজবাড়ী",
+        "ফরিদপুর",
+        "মানিকগঞ্জ (মানিকগঞ্জের আরিচায় যমুনা নদী পদ্মার সাথে মিলিত হয়েছে)",
+        "মুন্সীগঞ্জ (এখান থেকেই পদ্মা সেতু মাদারীপুর/শরীয়তপুরের সাথে সংযুক্ত হয়েছে)",
+        "মাদারীপুর",
+        "শরীয়তপুর",
+        "চাঁদপুর (এখানে পদ্মা নদী মেঘনা নদীর সাথে মিলিত হয়ে বঙ্গোপসাগরে পতিত হয়েছে)"
     ],
     "paths": [[ [ 89.0525894, 23.9928455 ], [ 89.0555039, 23.9883627 ], [ 89.0635822, 23.9803142 ], [ 89.1081265, 23.9597615 ], [ 89.1106236, 23.9587015 ] ] ,
                 [ [ 89.1106236, 23.9587015 ], [ 89.1529961, 23.9414805 ], [ 89.1764613, 23.9349178 ] ] ,
