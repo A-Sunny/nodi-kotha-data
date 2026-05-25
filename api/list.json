@@ -91,6 +91,12 @@
         "slug": "shitalakshya",
         "name_en": "Shitalakshya River",
         "name_bn": "শিতালাক্ষ্য নদী"
+    },
+    {
+        "id": 16,
+        "slug": "madhumati",
+        "name_en": "Madhumati River",
+        "name_bn": "মাধুমতী নদী"
     }
     
 ]
