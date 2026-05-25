@@ -28,7 +28,7 @@ The Android application fetches river metadata and optimized geometry data direc
     |-rivers
         |-padma.json
         |-meghna.json
-        ..... ```
+        ..... text```
 
 ---
 
