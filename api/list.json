@@ -47,5 +47,19 @@
         "slug": "atrai",
         "name_en": "Atrai River",
         "name_bn": "আত্রাই নদী"
+    },
+
+    {
+        "id": 9,
+        "slug": "dhaleshwari",
+        "name_en": "Dhaleshwari River",
+        "name_bn": "ঢালেশ্বরী নদী"
+    },
+    
+    {
+        "id": 10,
+        "slug": "bramhaputra",
+        "name_en": "Brahmaputra River",
+        "name_bn": "ব্রহ্মপুত্র নদী"
     }
 ]
