@@ -1,0 +1,37 @@
+{
+  "id": 1,
+  "slug": "0017_gorai",
+  "name_en": "Garai",
+  "name_bn": "গড়াই",
+  "classification_en": "Major River / Distributary",
+  "classification_bn": "প্রধান নদী / শাখা নদী",
+  "parent_river_en": "Ganges (Padma)",
+  "parent_river_bn": "গঙ্গা (পদ্মা)",
+  "origin_en": "Branches off from the Ganges (Padma) near Kushtia and flows southward before becoming the Madhumati River at the Magura border",
+  "origin_bn": "কুষ্টিয়ার কাছে গঙ্গা (পদ্মা) নদী থেকে শাখা হিসেবে উৎপন্ন হয়ে দক্ষিণ দিকে প্রবাহিত হয়ে মাগুরা সীমান্তে মধুমতি নদীতে রূপান্তরিত হয়েছে",
+  "length_km": 160,
+  "details_en": "The Garai River is one of the most important distributaries of the Ganges (Padma) in Bangladesh and serves as the primary source of freshwater for the entire southwest region. Originating from the right bank of the Padma near Kushtia, the river flows southward through Kushtia and Rajbari districts before entering Magura district, where it gradually assumes the name 'Madhumati'. Historically, the Garai was a mighty and navigable channel that played a crucial role in trade, transportation, agriculture, and fisheries. The river is especially significant because it supplies freshwater to the Garai-Madhumati-Baleswar river system and ultimately to the Sundarbans mangrove forest, helping prevent excessive salinity intrusion from the Bay of Bengal. Economically, the river supports irrigation, inland fisheries, and rural livelihoods across southwestern Bangladesh. However, the Garai has experienced severe degradation due to reduced dry-season flow caused by upstream water diversion, particularly after the commissioning of the Farakka Barrage. This reduction in flow has led to extensive siltation, shrinking river channels, formation of sandbars, loss of navigability, and increased salinity in the downstream regions. Several dredging and river restoration projects have been undertaken to revive the natural flow of the Garai and preserve the ecological balance of southwestern Bangladesh.",
+  "details_bn": "গড়াই নদী বাংলাদেশের গঙ্গা (পদ্মা) নদীর অন্যতম প্রধান শাখা এবং সমগ্র দক্ষিণ-পশ্চিমাঞ্চলের জন্য মিষ্টি পানির প্রধান উৎস। কুষ্টিয়ার কাছে পদ্মা নদীর ডান তীর থেকে উৎপন্ন হয়ে নদীটি দক্ষিণমুখে কুষ্টিয়া ও রাজবাড়ী জেলার মধ্য দিয়ে প্রবাহিত হয়ে মাগুরা জেলায় প্রবেশ করে, যেখানে এটি ধীরে ধীরে 'মধুমতি' নামে পরিচিত হয়। অতীতে গড়াই ছিল একটি প্রশস্ত ও নাব্য নদী, যা বাণিজ্য, নৌপরিবহন, কৃষি এবং মৎস্য সম্পদের জন্য অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করত। নদীটি গড়াই-মধুমতি-বলেশ্বর নদী ব্যবস্থার মাধ্যমে সুন্দরবনে বিপুল পরিমাণ মিষ্টি পানি সরবরাহ করে এবং বঙ্গোপসাগরের লবণাক্ত পানির আগ্রাসন প্রতিরোধে গুরুত্বপূর্ণ ভূমিকা রাখে। অর্থনৈতিকভাবে গড়াই নদী দক্ষিণ-পশ্চিমাঞ্চলের কৃষি সেচ, অভ্যন্তরীণ মৎস্য সম্পদ এবং গ্রামীণ জীবিকার অন্যতম ভিত্তি। তবে উজানে পানি প্রত্যাহার, বিশেষত ফারাক্কা ব্যারেজ চালু হওয়ার পর শুষ্ক মৌসুমে পানির প্রবাহ উল্লেখযোগ্যভাবে কমে যাওয়ায় নদীটি মারাত্মক সংকটের সম্মুখীন হয়েছে। পানির প্রবাহ কমে যাওয়ার ফলে নদীগর্ভে ব্যাপক পলি জমে চরের সৃষ্টি হয়েছে, নদীর নাব্যতা হ্রাস পেয়েছে এবং নিম্ন অববাহিকায় লবণাক্ততা বৃদ্ধি পেয়েছে। নদীর স্বাভাবিক প্রবাহ পুনরুদ্ধার এবং দক্ষিণ-পশ্চিমাঞ্চলের পরিবেশগত ভারসাম্য রক্ষার জন্য বিভিন্ন সময়ে খনন ও পুনরুদ্ধার প্রকল্প গ্রহণ করা হয়েছে।",
+  "divisions_en": [
+    "Khulna",
+    "Dhaka"
+  ],
+  "divisions_bn": [
+    "খুলনা",
+    "ঢাকা"
+  ],
+  "districts_en": [
+    "Kushtia (Originates from the Padma near the district headquarters and forms the upper course of the river)",
+    "Rajbari (Flows through the southern part of the district and receives local tributaries)",
+    "Magura (The river enters the district and gradually transitions into the Madhumati River)"
+  ],
+  "districts_bn": [
+    "কুষ্টিয়া (জেলার কাছে পদ্মা নদী থেকে উৎপন্ন হয়ে নদীর উচ্চ অববাহিকা গঠন করেছে)",
+    "রাজবাড়ী (জেলার দক্ষিণাংশ দিয়ে প্রবাহিত হয়ে বিভিন্ন স্থানীয় শাখা নদীর পানি গ্রহণ করেছে)",
+    "মাগুরা (জেলায় প্রবেশ করে ধীরে ধীরে মধুমতি নদীতে রূপান্তরিত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-05-25"
+}
