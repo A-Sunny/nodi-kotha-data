@@ -97,6 +97,63 @@
         "slug": "0016_madhumati",
         "name_en": "Madhumati River",
         "name_bn": "মাধুমতী নদী"
+    },
+
+    "havent added yet",
+
+    {
+        "id": 17,
+        "slug": "0017_gorai",
+        "name_en": "Gorai River",
+        "name_bn": "গড়াই নদী"
+    },
+    {
+        "id": 18,
+        "slug": "0018_ichamati",
+        "name_en": "Ichamati River",
+        "name_bn": "ইচামতি নদী"
+    },
+    {
+        "id": 19,
+        "slug": "0019_bhairab",
+        "name_en": "Bhairab River",
+        "name_bn": "ভৈরব নদী"
+    },
+    {
+        "id": 20,
+        "slug": "0020_kopotakkho",
+        "name_en": "Kopotakkho River",
+        "name_bn": "কপোতাক্ষ নদ"
+    },
+    {
+        "id": 21,
+        "slug": "0021_kumar",
+        "name_en": "Kumar River",
+        "name_bn": "কুমার নদী"
+    },
+    {
+        "id": 22,
+        "slug": "0022_chitra",
+        "name_en": "Chitra River",
+        "name_bn": "চিত্রা নদী"
+    },
+    {
+        "id": 23,
+        "slug": "0023_noboganga",
+        "name_en": "Nboganga River",
+        "name_bn": "নবগঙ্গা নদী"
+    },
+    {
+        "id": 24,
+        "slug": "0024_rupsha",
+        "name_en": "Rupsha River",
+        "name_bn": "রূপসা নদী"
+    },
+    {
+        "id": 25,
+        "slug": "0025_poshur",
+        "name_en": "Poshur River",
+        "name_bn": "পশুর নদী"
     }
     
 ]
