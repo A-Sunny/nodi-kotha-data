@@ -90,7 +90,7 @@
         "id": 15,
         "slug": "0015_shitalakshya",
         "name_en": "Shitalakshya River",
-        "name_bn": "শিতালাক্ষ্য নদী"
+        "name_bn": "শীতলক্ষ্যা নদী"
     },
     {
         "id": 16,
@@ -98,9 +98,6 @@
         "name_en": "Madhumati River",
         "name_bn": "মাধুমতী নদী"
     },
-
-    "havent added yet",
-
     {
         "id": 17,
         "slug": "0017_gorai",
