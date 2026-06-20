@@ -1,0 +1,33 @@
+{
+  "id": 35,
+  "slug": "0035_titas",
+  "name_en": "Titas",
+  "name_bn": "তিতাস",
+  "classification_en": "Major River / Distributary",
+  "classification_bn": "প্রধান নদী / শাখা নদী",
+  "parent_river_en": "Meghna River",
+  "parent_river_bn": "মেঘনা নদী",
+  "origin_en": "Branches off from the Meghna River near the Brahmanbaria region, forms a loop through the district, and rejoins the Meghna downstream",
+  "origin_bn": "ব্রাহ্মণবাড়িয়া অঞ্চলের নিকটে মেঘনা নদী থেকে শাখা হিসেবে উৎপন্ন হয়ে জেলার মধ্য দিয়ে বৃত্তাকার প্রবাহ গঠন করে পুনরায় নিম্নপ্রবাহে মেঘনা নদীর সঙ্গে মিলিত হয়েছে",
+  "length_km": 98,
+  "details_en": "The Titas River is one of the most important rivers of eastern Bangladesh and a major distributary of the Meghna River. Flowing primarily through Brahmanbaria district, the river branches from the Meghna, meanders through fertile floodplains, and eventually rejoins the Meghna downstream. The Titas is widely known for its cultural significance and for inspiring the celebrated Bengali novel and film 'A River Called Titas'. The river has historically supported agriculture, fisheries, inland navigation, and rural livelihoods throughout the region. Its floodplains provide fertile agricultural land, while the river itself sustains diverse fish populations and wetland ecosystems. During the monsoon season, the river expands significantly and contributes to floodplain replenishment, while in the dry season water levels often decline considerably. Over recent decades, sedimentation, encroachment, pollution, and reduced flow have affected many sections of the river. These changes have impacted fisheries, navigation, and ecological balance. Despite these challenges, the Titas remains an important cultural, ecological, and economic resource for communities in eastern Bangladesh and continues to play a vital role in the Meghna river system.",
+  "details_bn": "তিতাস নদী পূর্ব বাংলাদেশের অন্যতম গুরুত্বপূর্ণ নদী এবং মেঘনা নদীর একটি প্রধান শাখা নদী। মূলত ব্রাহ্মণবাড়িয়া জেলার মধ্য দিয়ে প্রবাহিত এই নদীটি মেঘনা থেকে উৎপন্ন হয়ে উর্বর বন্যাভূমি অতিক্রম করে পুনরায় মেঘনা নদীর সঙ্গে মিলিত হয়েছে। তিতাস নদী তার সাংস্কৃতিক গুরুত্বের জন্য বিশেষভাবে পরিচিত এবং বিখ্যাত বাংলা উপন্যাস ও চলচ্চিত্র 'তিতাস একটি নদীর নাম'-এর অনুপ্রেরণা হিসেবে সুপরিচিত। নদীটি দীর্ঘদিন ধরে কৃষি, মৎস্যসম্পদ, অভ্যন্তরীণ নৌ-পরিবহন এবং গ্রামীণ জীবিকার অন্যতম ভিত্তি হিসেবে কাজ করে আসছে। এর বন্যাভূমি উর্বর কৃষিজমি সরবরাহ করে এবং নদীটি বিভিন্ন প্রজাতির মাছ ও জলজ বাস্তুতন্ত্রকে টিকিয়ে রাখে। বর্ষাকালে নদীর প্রবাহ ও বিস্তৃতি উল্লেখযোগ্যভাবে বৃদ্ধি পায় এবং বন্যাভূমিতে পুষ্টিসমৃদ্ধ পলি ছড়িয়ে দেয়, অন্যদিকে শুষ্ক মৌসুমে পানির স্তর অনেকাংশে কমে যায়। সাম্প্রতিক দশকগুলোতে পলি জমা, নদীদখল, দূষণ এবং পানিপ্রবাহ হ্রাসের কারণে নদীটির অনেক অংশ ক্ষতিগ্রস্ত হয়েছে। এর ফলে মৎস্যসম্পদ, নৌ-চলাচল এবং পরিবেশগত ভারসাম্যের ওপর নেতিবাচক প্রভাব পড়েছে। তবুও তিতাস নদী পূর্ব বাংলাদেশের জনগণের জন্য একটি গুরুত্বপূর্ণ সাংস্কৃতিক, পরিবেশগত ও অর্থনৈতিক সম্পদ এবং মেঘনা নদী ব্যবস্থার একটি অপরিহার্য অংশ হিসেবে গুরুত্বপূর্ণ ভূমিকা পালন করে যাচ্ছে।",
+  "divisions_en": [
+    "Chattogram"
+  ],
+  "divisions_bn": [
+    "চট্টগ্রাম"
+  ],
+  "districts_en": [
+    "Brahmanbaria (The river flows through most of the district and forms a distinctive loop before rejoining the Meghna)",
+    "Cumilla (Parts of the surrounding floodplain and river system influence areas of the district)"
+  ],
+  "districts_bn": [
+    "ব্রাহ্মণবাড়িয়া (নদীটি জেলার বৃহৎ অংশ দিয়ে প্রবাহিত হয়ে পুনরায় মেঘনা নদীতে মিলিত হয়েছে)",
+    "কুমিল্লা (নদীর বন্যাভূমি ও সংশ্লিষ্ট নদী ব্যবস্থা জেলার কিছু অংশকে প্রভাবিত করে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 36,
+  "slug": "0036_sangu",
+  "name_en": "Sangu",
+  "name_bn": "সাঙ্গু",
+  "classification_en": "Major River / Transboundary River",
+  "classification_bn": "প্রধান নদী / আন্তঃসীমান্ত নদী",
+  "parent_river_en": "Bay of Bengal",
+  "parent_river_bn": "বঙ্গোপসাগর",
+  "origin_en": "Originates in the Arakan Hills of Myanmar, enters Bangladesh through Bandarban district, and flows southwest before emptying into the Bay of Bengal near Chattogram",
+  "origin_bn": "মিয়ানমারের আরাকান পাহাড় থেকে উৎপন্ন হয়ে বান্দরবান জেলা দিয়ে বাংলাদেশে প্রবেশ করে দক্ষিণ-পশ্চিমমুখে প্রবাহিত হয়ে চট্টগ্রামের উপকূলের নিকট বঙ্গোপসাগরে পতিত হয়েছে",
+  "length_km": 270,
+  "details_en": "The Sangu River is one of the major rivers of southeastern Bangladesh and the only significant river in the country that originates in Myanmar. Rising in the Arakan Hills, the river enters Bangladesh through Bandarban district and flows through rugged hill landscapes before reaching the coastal plains and ultimately the Bay of Bengal. The Sangu is renowned for its scenic beauty, winding course, and importance to the Chattogram Hill Tracts region. The river supports agriculture, fisheries, domestic water use, and transportation for numerous indigenous and local communities living along its banks. Its watershed contains rich biodiversity, including forest ecosystems, freshwater habitats, and wildlife associated with the hill tracts. During the monsoon season, heavy rainfall in the upstream hills causes rapid increases in river discharge, which can result in flooding and riverbank erosion. Conversely, dry-season flows are significantly lower. Environmental challenges affecting the river include deforestation, soil erosion, sedimentation, climate change, and increasing pressure from human activities. Despite these challenges, the Sangu remains one of Bangladesh's most ecologically valuable and visually striking rivers, playing a crucial role in the economy, culture, and environment of the southeastern region.",
+  "details_bn": "সাঙ্গু নদী দক্ষিণ-পূর্ব বাংলাদেশের অন্যতম প্রধান নদী এবং দেশের একমাত্র উল্লেখযোগ্য নদী যা মিয়ানমারে উৎপন্ন হয়েছে। মিয়ানমারের আরাকান পাহাড় থেকে উৎপন্ন হয়ে নদীটি বান্দরবান জেলা দিয়ে বাংলাদেশে প্রবেশ করে পাহাড়ি ভূপ্রকৃতি অতিক্রম করে উপকূলীয় সমভূমিতে পৌঁছে শেষ পর্যন্ত বঙ্গোপসাগরে পতিত হয়েছে। সাঙ্গু তার মনোরম প্রাকৃতিক সৌন্দর্য, আঁকাবাঁকা প্রবাহপথ এবং পার্বত্য চট্টগ্রাম অঞ্চলের জন্য গুরুত্বপূর্ণ ভূমিকার কারণে সুপরিচিত। নদীটি তীরবর্তী আদিবাসী ও স্থানীয় জনগোষ্ঠীর কৃষি, মৎস্যসম্পদ, গৃহস্থালি পানির চাহিদা এবং নৌ-যোগাযোগে গুরুত্বপূর্ণ অবদান রাখে। এর অববাহিকায় সমৃদ্ধ জীববৈচিত্র্য বিদ্যমান, যার মধ্যে বনাঞ্চল, স্বাদুপানির বাস্তুতন্ত্র এবং পাহাড়ি অঞ্চলের বিভিন্ন বন্যপ্রাণী অন্তর্ভুক্ত। বর্ষাকালে উজানের পাহাড়ি এলাকায় ভারী বৃষ্টিপাতের ফলে নদীর পানিপ্রবাহ দ্রুত বৃদ্ধি পায়, যা বন্যা ও নদীভাঙনের কারণ হতে পারে। অন্যদিকে শুষ্ক মৌসুমে নদীর প্রবাহ উল্লেখযোগ্যভাবে কমে যায়। বন উজাড়, মাটিক্ষয়, পলি জমা, জলবায়ু পরিবর্তন এবং মানবসৃষ্ট বিভিন্ন চাপ বর্তমানে নদীটির জন্য গুরুত্বপূর্ণ পরিবেশগত চ্যালেঞ্জ সৃষ্টি করছে। এসব চ্যালেঞ্জ সত্ত্বেও সাঙ্গু নদী বাংলাদেশের অন্যতম পরিবেশগতভাবে মূল্যবান ও দৃষ্টিনন্দন নদী হিসেবে দক্ষিণ-পূর্বাঞ্চলের অর্থনীতি, সংস্কৃতি এবং পরিবেশে গুরুত্বপূর্ণ ভূমিকা পালন করে যাচ্ছে।",
+  "divisions_en": [
+    "Chattogram"
+  ],
+  "divisions_bn": [
+    "চট্টগ্রাম"
+  ],
+  "districts_en": [
+    "Bandarban (The river enters Bangladesh through the district and flows through much of the hill region)",
+    "Chattogram (Lower reaches flow through the district before entering the Bay of Bengal)"
+  ],
+  "districts_bn": [
+    "বান্দরবান (নদীটি বাংলাদেশে প্রবেশ করে জেলার বৃহৎ পাহাড়ি অঞ্চল অতিক্রম করেছে)",
+    "চট্টগ্রাম (নদীর নিম্নপ্রবাহ জেলার মধ্য দিয়ে প্রবাহিত হয়ে বঙ্গোপসাগরে পতিত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

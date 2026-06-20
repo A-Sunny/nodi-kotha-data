@@ -1,0 +1,39 @@
+{
+  "id": 30,
+  "slug": "0030_karatoya",
+  "name_en": "Karatoya",
+  "name_bn": "করতোয়া",
+  "classification_en": "Major River",
+  "classification_bn": "প্রধান নদী",
+  "parent_river_en": "Teesta River System (historically) / Karatoya–Bangali–Phuljhor River System",
+  "parent_river_bn": "তিস্তা নদী ব্যবস্থা (ঐতিহাসিকভাবে) / করতোয়া–বাঙালি–ফুলঝোর নদী ব্যবস্থা",
+  "origin_en": "Historically originated from the Teesta River system in the Himalayan foothills and flows through northern Bangladesh before joining the Bangali–Phuljhor river network",
+  "origin_bn": "ঐতিহাসিকভাবে হিমালয় পাদদেশীয় তিস্তা নদী ব্যবস্থা থেকে উৎপন্ন হয়ে উত্তর বাংলাদেশের বিভিন্ন অঞ্চল অতিক্রম করে বাঙালি–ফুলঝোর নদী ব্যবস্থার সঙ্গে সংযুক্ত হয়েছে",
+  "length_km": 225,
+  "details_en": "The Karatoya River is one of the oldest and most historically significant rivers in Bangladesh and the greater Bengal region. In ancient and medieval times, it was a mighty river that served as an important geographical, cultural, and political boundary. Historical records describe the Karatoya as a major river connected to the Teesta system before significant hydrological changes altered its course and reduced its flow. Today, the river flows through parts of Panchagarh, Bogura, and nearby districts, forming an important component of the Karatoya–Bangali–Phuljhor river network. The river contributes to regional agriculture by supplying water and depositing fertile alluvial sediments on surrounding floodplains. Numerous settlements, markets, and agricultural communities have historically developed along its banks. The Karatoya also holds archaeological and cultural importance, with many ancient sites located near its course. Over time, sedimentation, channel narrowing, encroachment, pollution, and reduced upstream flow have diminished the river's size and navigability. Nevertheless, the Karatoya remains an important river for local ecosystems, agriculture, fisheries, and the historical heritage of northern Bangladesh.",
+  "details_bn": "করতোয়া নদী বাংলাদেশ এবং বৃহত্তর বঙ্গ অঞ্চলের অন্যতম প্রাচীন ও ঐতিহাসিকভাবে গুরুত্বপূর্ণ নদী। প্রাচীন ও মধ্যযুগে এটি একটি বিশাল ও শক্তিশালী নদী ছিল, যা গুরুত্বপূর্ণ ভৌগোলিক, সাংস্কৃতিক এবং রাজনৈতিক সীমানা হিসেবে পরিচিত ছিল। ঐতিহাসিক সূত্রে জানা যায় যে করতোয়া একসময় তিস্তা নদী ব্যবস্থার সঙ্গে সংযুক্ত একটি বৃহৎ নদী ছিল; পরবর্তীকালে বিভিন্ন জলপ্রবাহগত পরিবর্তনের ফলে এর গতিপথ ও পানিপ্রবাহ উল্লেখযোগ্যভাবে পরিবর্তিত হয়। বর্তমানে নদীটি পঞ্চগড়, বগুড়াসহ উত্তর বাংলাদেশের বিভিন্ন অঞ্চল দিয়ে প্রবাহিত হয়ে করতোয়া–বাঙালি–ফুলঝোর নদী ব্যবস্থার গুরুত্বপূর্ণ অংশ হিসেবে কাজ করছে। নদীটি কৃষিজমিতে পানি সরবরাহ এবং উর্বর পলিমাটি জমা করে আঞ্চলিক কৃষিকে সমৃদ্ধ করে। ইতিহাসের বিভিন্ন সময়ে এর তীরে অসংখ্য জনপদ, হাটবাজার ও কৃষিনির্ভর বসতি গড়ে উঠেছে। করতোয়া নদীর তীরবর্তী এলাকায় বহু প্রত্নতাত্ত্বিক ও ঐতিহাসিক নিদর্শনও রয়েছে, যা এর সাংস্কৃতিক গুরুত্বকে আরও বৃদ্ধি করেছে। তবে পলি জমা, নদীপথ সংকুচিত হওয়া, দখল, দূষণ এবং উজানে পানিপ্রবাহ হ্রাসের কারণে নদীটির আকার ও নাব্যতা অনেকাংশে কমে গেছে। তবুও করতোয়া নদী উত্তর বাংলাদেশের পরিবেশ, কৃষি, মৎস্যসম্পদ এবং ঐতিহাসিক ঐতিহ্যের একটি গুরুত্বপূর্ণ অংশ হিসেবে আজও বিদ্যমান রয়েছে।",
+  "divisions_en": [
+    "Rangpur",
+    "Rajshahi"
+  ],
+  "divisions_bn": [
+    "রংপুর",
+    "রাজশাহী"
+  ],
+  "districts_en": [
+    "Panchagarh (Upper course of the river in Bangladesh)",
+    "Dinajpur (Flows through parts of the district and associated floodplains)",
+    "Bogura (One of the major districts through which the river flows)",
+    "Gaibandha (Connected with the broader Karatoya–Bangali–Phuljhor river system)"
+  ],
+  "districts_bn": [
+    "পঞ্চগড় (বাংলাদেশে নদীটির উজান অংশ প্রবাহিত হয়েছে)",
+    "দিনাজপুর (জেলার কিছু অংশ ও সংশ্লিষ্ট বন্যাভূমি অতিক্রম করেছে)",
+    "বগুড়া (নদীটির প্রধান প্রবাহপথের অন্যতম গুরুত্বপূর্ণ জেলা)",
+    "গাইবান্ধা (বৃহত্তর করতোয়া–বাঙালি–ফুলঝোর নদী ব্যবস্থার সঙ্গে সংযুক্ত)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

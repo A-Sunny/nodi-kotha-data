@@ -1,0 +1,31 @@
+{
+  "id": 38,
+  "slug": "0038_bakkhali",
+  "name_en": "Bakkhali",
+  "name_bn": "বাকখালী",
+  "classification_en": "Major Coastal River",
+  "classification_bn": "প্রধান উপকূলীয় নদী",
+  "parent_river_en": "Bay of Bengal",
+  "parent_river_bn": "বঙ্গোপসাগর",
+  "origin_en": "Originates in the hill ranges of southeastern Bangladesh and flows through Cox's Bazar before emptying into the Bay of Bengal near Cox's Bazar town",
+  "origin_bn": "দক্ষিণ-পূর্ব বাংলাদেশের পাহাড়ি অঞ্চল থেকে উৎপন্ন হয়ে কক্সবাজার জেলার মধ্য দিয়ে প্রবাহিত হয়ে কক্সবাজার শহরের নিকটে বঙ্গোপসাগরে পতিত হয়েছে",
+  "length_km": 79,
+  "details_en": "The Bakkhali River is one of the most important rivers of Cox's Bazar district and a significant coastal river of southeastern Bangladesh. Originating in the hilly areas inland from the coast, the river flows through fertile valleys and urban areas before reaching the Bay of Bengal. The Bakkhali plays an important role in local agriculture, fisheries, drainage, and water supply. Its estuarine zone supports diverse aquatic habitats and contributes to the ecological health of the coastal region. The river is closely associated with the development of Cox's Bazar town and serves as an important natural feature of the district. During the monsoon season, heavy rainfall in the surrounding hills significantly increases river discharge, occasionally causing flooding in adjacent low-lying areas. In the dry season, tidal influences become more noticeable in the lower reaches of the river. Environmental challenges include sedimentation, riverbank erosion, urban pollution, encroachment, and the impacts of climate change and sea-level rise. Despite these pressures, the Bakkhali remains a vital river supporting the economy, environment, and livelihoods of communities throughout the Cox's Bazar region.",
+  "details_bn": "বাকখালী নদী কক্সবাজার জেলার অন্যতম গুরুত্বপূর্ণ নদী এবং দক্ষিণ-পূর্ব বাংলাদেশের একটি উল্লেখযোগ্য উপকূলীয় নদী। উপকূলবর্তী পাহাড়ি অঞ্চল থেকে উৎপন্ন হয়ে নদীটি উর্বর উপত্যকা ও জনবসতিপূর্ণ এলাকা অতিক্রম করে বঙ্গোপসাগরে পতিত হয়েছে। বাকখালী নদী স্থানীয় কৃষি, মৎস্যসম্পদ, জলনিষ্কাশন এবং পানি সরবরাহে গুরুত্বপূর্ণ ভূমিকা পালন করে। এর মোহনা অঞ্চল বিভিন্ন জলজ বাস্তুতন্ত্রের আবাসস্থল এবং উপকূলীয় পরিবেশের ভারসাম্য রক্ষায় সহায়ক। কক্সবাজার শহরের বিকাশ ও অর্থনৈতিক কর্মকাণ্ডের সঙ্গে নদীটির ঘনিষ্ঠ সম্পর্ক রয়েছে এবং এটি জেলার একটি গুরুত্বপূর্ণ প্রাকৃতিক বৈশিষ্ট্য হিসেবে পরিচিত। বর্ষাকালে পার্শ্ববর্তী পাহাড়ি এলাকায় ভারী বৃষ্টিপাতের ফলে নদীর পানিপ্রবাহ দ্রুত বৃদ্ধি পায় এবং অনেক সময় নিম্নাঞ্চলে বন্যার সৃষ্টি করে। শুষ্ক মৌসুমে নদীর নিম্নপ্রবাহে জোয়ার-ভাটার প্রভাব তুলনামূলকভাবে বেশি অনুভূত হয়। বর্তমানে পলি জমা, নদীভাঙন, নগর দূষণ, নদীদখল, জলবায়ু পরিবর্তন এবং সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধির মতো বিভিন্ন চ্যালেঞ্জ নদীটির ওপর প্রভাব ফেলছে। এসব চ্যালেঞ্জ সত্ত্বেও বাকখালী নদী কক্সবাজার অঞ্চলের অর্থনীতি, পরিবেশ এবং স্থানীয় জনগণের জীবিকার জন্য একটি অত্যন্ত গুরুত্বপূর্ণ নদী হিসেবে বিদ্যমান রয়েছে।",
+  "divisions_en": [
+    "Chattogram"
+  ],
+  "divisions_bn": [
+    "চট্টগ্রাম"
+  ],
+  "districts_en": [
+    "Cox's Bazar (The river flows through the district and passes near Cox's Bazar town before entering the Bay of Bengal)"
+  ],
+  "districts_bn": [
+    "কক্সবাজার (নদীটি জেলার মধ্য দিয়ে প্রবাহিত হয়ে কক্সবাজার শহরের নিকট বঙ্গোপসাগরে পতিত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

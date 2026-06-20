@@ -1,0 +1,35 @@
+{
+  "id": 39,
+  "slug": "0039_punarbhaba",
+  "name_en": "Punarbhaba",
+  "name_bn": "পুনর্ভবা",
+  "classification_en": "Major River / Transboundary River",
+  "classification_bn": "প্রধান নদী / আন্তঃসীমান্ত নদী",
+  "parent_river_en": "Mahananda River",
+  "parent_river_bn": "মহানন্দা নদী",
+  "origin_en": "Originates from the wetlands and floodplain areas associated with the Teesta basin in West Bengal, India, enters Bangladesh through Dinajpur district, and flows southward before joining the Mahananda River",
+  "origin_bn": "ভারতের পশ্চিমবঙ্গে তিস্তা অববাহিকার জলাভূমি ও বন্যাপ্রবণ এলাকা থেকে উৎপন্ন হয়ে দিনাজপুর জেলা দিয়ে বাংলাদেশে প্রবেশ করে দক্ষিণমুখে প্রবাহিত হয়ে মহানন্দা নদীর সঙ্গে মিলিত হয়েছে",
+  "length_km": 160,
+  "details_en": "The Punarbhaba River is an important transboundary river of northwestern Bangladesh and a significant tributary of the Mahananda River. Originating in northern India, the river enters Bangladesh through Dinajpur district and flows through fertile agricultural plains before eventually joining the Mahananda. The Punarbhaba plays a crucial role in irrigation, agriculture, fisheries, and local water management across the region. Its floodplains are highly productive and support the cultivation of rice, wheat, vegetables, and other crops. During the monsoon season, the river receives substantial rainfall runoff and may overflow its banks, causing seasonal flooding that both benefits agriculture through sediment deposition and occasionally damages infrastructure and crops. Historically, the river has supported rural settlements and local economic activities along its course. The river also contributes to wetland ecosystems and provides habitat for numerous aquatic species. Challenges affecting the Punarbhaba include sedimentation, riverbank erosion, reduced dry-season flow, encroachment, and the broader impacts of climate change on regional hydrology. Despite these challenges, the river remains an essential component of the water resources and agricultural economy of northwestern Bangladesh.",
+  "details_bn": "পুনর্ভবা নদী উত্তর-পশ্চিম বাংলাদেশের একটি গুরুত্বপূর্ণ আন্তঃসীমান্ত নদী এবং মহানন্দা নদীর একটি উল্লেখযোগ্য উপনদী। ভারতের উত্তরাঞ্চল থেকে উৎপন্ন হয়ে নদীটি দিনাজপুর জেলা দিয়ে বাংলাদেশে প্রবেশ করে উর্বর কৃষিভূমি অতিক্রম করে শেষ পর্যন্ত মহানন্দা নদীর সঙ্গে মিলিত হয়েছে। পুনর্ভবা নদী অঞ্চলের সেচব্যবস্থা, কৃষি, মৎস্যসম্পদ এবং স্থানীয় জলসম্পদ ব্যবস্থাপনায় গুরুত্বপূর্ণ ভূমিকা পালন করে। এর বন্যাভূমি অত্যন্ত উর্বর এবং ধান, গম, শাকসবজি ও অন্যান্য ফসল চাষে সহায়ক। বর্ষাকালে নদীটি প্রচুর বৃষ্টির পানি গ্রহণ করে এবং অনেক সময় তীর উপচে মৌসুমি বন্যার সৃষ্টি করে। এসব বন্যা একদিকে পলিমাটি জমা করে কৃষির জন্য উপকারী হলেও অন্যদিকে অবকাঠামো ও ফসলের ক্ষতিও করতে পারে। ঐতিহাসিকভাবে নদীটি এর তীরবর্তী গ্রামীণ জনপদ ও স্থানীয় অর্থনৈতিক কর্মকাণ্ডকে সমর্থন করে এসেছে। নদীটি বিভিন্ন জলাভূমি বাস্তুতন্ত্রের সঙ্গে সংযুক্ত এবং বহু জলজ প্রাণীর আবাসস্থল হিসেবে কাজ করে। বর্তমানে পলি জমা, নদীভাঙন, শুষ্ক মৌসুমে পানিপ্রবাহ হ্রাস, নদীদখল এবং জলবায়ু পরিবর্তনের প্রভাব নদীটির জন্য উল্লেখযোগ্য চ্যালেঞ্জ সৃষ্টি করছে। এসব চ্যালেঞ্জ সত্ত্বেও পুনর্ভবা নদী উত্তর-পশ্চিম বাংলাদেশের জলসম্পদ ও কৃষিভিত্তিক অর্থনীতির একটি অপরিহার্য অংশ হিসেবে গুরুত্বপূর্ণ ভূমিকা পালন করে যাচ্ছে।",
+  "divisions_en": [
+    "Rangpur",
+    "Rajshahi"
+  ],
+  "divisions_bn": [
+    "রংপুর",
+    "রাজশাহী"
+  ],
+  "districts_en": [
+    "Dinajpur (The river enters Bangladesh through the district and flows through a major agricultural region)",
+    "Naogaon (Lower reaches influence parts of the district before joining the Mahananda system)"
+  ],
+  "districts_bn": [
+    "দিনাজপুর (নদীটি বাংলাদেশে প্রবেশ করে জেলার গুরুত্বপূর্ণ কৃষি অঞ্চলের মধ্য দিয়ে প্রবাহিত হয়েছে)",
+    "নওগাঁ (নদীর নিম্নপ্রবাহ জেলার কিছু অংশকে প্রভাবিত করে এবং মহানন্দা নদী ব্যবস্থার সঙ্গে সংযুক্ত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

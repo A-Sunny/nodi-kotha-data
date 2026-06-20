@@ -1,0 +1,33 @@
+{
+  "id": 33,
+  "slug": "0033_gomti",
+  "name_en": "Gomti",
+  "name_bn": "গোমতী",
+  "classification_en": "Major River / Transboundary River",
+  "classification_bn": "প্রধান নদী / আন্তঃসীমান্ত নদী",
+  "parent_river_en": "Meghna River",
+  "parent_river_bn": "মেঘনা নদী",
+  "origin_en": "Originates in the Atharamura Hills of Tripura, India, enters Bangladesh through Cumilla district, and flows southwest before joining the Meghna River",
+  "origin_bn": "ভারতের ত্রিপুরা রাজ্যের আথারামুড়া পাহাড় থেকে উৎপন্ন হয়ে কুমিল্লা জেলা দিয়ে বাংলাদেশে প্রবেশ করে দক্ষিণ-পশ্চিমমুখে প্রবাহিত হয়ে মেঘনা নদীর সঙ্গে মিলিত হয়েছে",
+  "length_km": 400,
+  "details_en": "The Gomti River is one of the major transboundary rivers of eastern Bangladesh and an important tributary of the Meghna River. Originating in the Atharamura Hills of Tripura, India, the river flows through the Indian state before entering Bangladesh in Cumilla district. The Gomti has long played a vital role in agriculture, fisheries, water supply, and local transportation across the region. Its fertile floodplains support extensive cultivation, while seasonal floods deposit nutrient-rich sediments that improve soil productivity. During the monsoon season, the river experiences substantial increases in discharge, which can lead to flooding in adjacent low-lying areas. The river is also ecologically significant, supporting diverse aquatic species and wetland habitats. In India, the river is regulated by the Gomti Dam near Dumbur, which influences downstream flow patterns. Challenges facing the river include sedimentation, riverbank erosion, pollution, encroachment, and fluctuations in transboundary water flow. Climate change and changing rainfall patterns may further affect its hydrology in the future. Despite these pressures, the Gomti remains a crucial river for the economy, environment, and livelihoods of communities in eastern Bangladesh.",
+  "details_bn": "গোমতী নদী পূর্ব বাংলাদেশের অন্যতম প্রধান আন্তঃসীমান্ত নদী এবং মেঘনা নদীর একটি গুরুত্বপূর্ণ উপনদী। ভারতের ত্রিপুরা রাজ্যের আথারামুড়া পাহাড় থেকে উৎপন্ন হয়ে নদীটি ত্রিপুরা অতিক্রম করে কুমিল্লা জেলা দিয়ে বাংলাদেশে প্রবেশ করেছে। গোমতী দীর্ঘদিন ধরে কৃষি, মৎস্যসম্পদ, পানি সরবরাহ এবং স্থানীয় নৌ-যোগাযোগের ক্ষেত্রে গুরুত্বপূর্ণ ভূমিকা পালন করে আসছে। নদীর উর্বর বন্যাভূমি বিস্তৃত কৃষিকাজকে সহায়তা করে এবং মৌসুমি বন্যার মাধ্যমে আগত পলিমাটি জমির উর্বরতা বৃদ্ধি করে। বর্ষাকালে নদীর পানিপ্রবাহ উল্লেখযোগ্যভাবে বৃদ্ধি পায়, যার ফলে আশপাশের নিম্নাঞ্চলে বন্যা দেখা দিতে পারে। নদীটি পরিবেশগত দিক থেকেও গুরুত্বপূর্ণ; এর জলজ পরিবেশ ও জলাভূমি বহু প্রজাতির মাছ ও অন্যান্য জীবের আবাসস্থল। ভারতের ডাম্বুর এলাকার নিকট নির্মিত গোমতী বাঁধ নদীর নিম্নপ্রবাহের পানিপ্রবাহকে প্রভাবিত করে। বর্তমানে পলি জমা, নদীভাঙন, দূষণ, নদীদখল এবং আন্তঃসীমান্ত পানিপ্রবাহের ওঠানামা নদীটির জন্য গুরুত্বপূর্ণ চ্যালেঞ্জ। জলবায়ু পরিবর্তন এবং বৃষ্টিপাতের ধরনে পরিবর্তন ভবিষ্যতে এর জলপ্রবাহ ব্যবস্থাকে আরও প্রভাবিত করতে পারে। এসব চ্যালেঞ্জ সত্ত্বেও গোমতী নদী পূর্ব বাংলাদেশের অর্থনীতি, পরিবেশ এবং নদীনির্ভর জনগোষ্ঠীর জীবিকার জন্য অত্যন্ত গুরুত্বপূর্ণ একটি নদী হিসেবে বিদ্যমান রয়েছে।",
+  "divisions_en": [
+    "Chattogram"
+  ],
+  "divisions_bn": [
+    "চট্টগ্রাম"
+  ],
+  "districts_en": [
+    "Cumilla (The river enters Bangladesh through the district and flows across a large agricultural region)",
+    "Chandpur (Lower reaches contribute to the Meghna basin before the river merges with the Meghna system)"
+  ],
+  "districts_bn": [
+    "কুমিল্লা (নদীটি বাংলাদেশে প্রবেশ করে জেলার বিস্তৃত কৃষি অঞ্চলের মধ্য দিয়ে প্রবাহিত হয়েছে)",
+    "চাঁদপুর (নদীর নিম্নাংশ মেঘনা অববাহিকায় অবদান রেখে শেষ পর্যন্ত মেঘনা নদী ব্যবস্থার সঙ্গে যুক্ত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 29,
+  "slug": "0029_bangali",
+  "name_en": "Bangali",
+  "name_bn": "বাঙালি",
+  "classification_en": "Major River / Distributary",
+  "classification_bn": "প্রধান নদী / শাখা নদী",
+  "parent_river_en": "Jamuna River (Brahmaputra)",
+  "parent_river_bn": "যমুনা নদী (ব্রহ্মপুত্র)",
+  "origin_en": "Originates from the Jamuna River near Sirajganj region and flows northwest and southward through Bogura and Gaibandha districts before joining the Karatoya–Phuljhor river system",
+  "origin_bn": "যমুনা নদী থেকে সিরাজগঞ্জ অঞ্চলের নিকট উৎপন্ন হয়ে বগুড়া ও গাইবান্ধা জেলার মধ্য দিয়ে উত্তর-পশ্চিম ও দক্ষিণমুখে প্রবাহিত হয়ে করতোয়া–ফুলঝোর নদী ব্যবস্থার সঙ্গে সংযুক্ত হয়েছে",
+  "length_km": 183,
+  "details_en": "The Bangali River is one of the significant rivers of north-central Bangladesh and an important distributary of the Jamuna River. The river branches off from the Jamuna and flows through the districts of Bogura and Gaibandha, playing a vital role in the drainage and hydrology of the region. Historically, the Bangali has served as an important channel for transporting water, sediment, and nutrients across the floodplains of northern Bangladesh. During the monsoon season, water levels rise substantially, often causing floods in adjacent low-lying areas. These floods can damage crops and infrastructure but also replenish soil fertility through the deposition of nutrient-rich sediments. The river supports agriculture, fisheries, local transportation, and domestic water use for many communities along its banks. Numerous wetlands, floodplain habitats, and seasonal water bodies associated with the river contribute to regional biodiversity. However, sedimentation, riverbank erosion, reduced dry-season flow, encroachment, and pollution have affected parts of the river system over time. Sustainable river management and conservation efforts remain important for maintaining the ecological and economic functions of the Bangali River.",
+  "details_bn": "বাঙালি নদী উত্তর-মধ্য বাংলাদেশের অন্যতম গুরুত্বপূর্ণ নদী এবং যমুনা নদীর একটি প্রধান শাখা নদী। নদীটি যমুনা থেকে উৎপন্ন হয়ে বগুড়া ও গাইবান্ধা জেলার মধ্য দিয়ে প্রবাহিত হয়ে অঞ্চলের জলনিষ্কাশন ও জলপ্রবাহ ব্যবস্থায় গুরুত্বপূর্ণ ভূমিকা পালন করে। ঐতিহাসিকভাবে বাঙালি নদী উত্তরাঞ্চলের বন্যাপ্রবণ সমভূমিতে পানি, পলি ও পুষ্টি উপাদান পরিবহনের একটি গুরুত্বপূর্ণ মাধ্যম হিসেবে কাজ করেছে। বর্ষাকালে নদীর পানির উচ্চতা উল্লেখযোগ্যভাবে বৃদ্ধি পায় এবং আশপাশের নিম্নাঞ্চলে বন্যা সৃষ্টি করে। এসব বন্যা একদিকে ফসল ও অবকাঠামোর ক্ষতি করলেও অন্যদিকে উর্বর পলিমাটি জমা করে কৃষিজমির উৎপাদনশীলতা বৃদ্ধি করে। নদীটি কৃষি, মৎস্যসম্পদ, স্থানীয় নৌ-যোগাযোগ এবং গৃহস্থালি কাজে ব্যবহৃত পানির একটি গুরুত্বপূর্ণ উৎস। নদীসংলগ্ন জলাভূমি, বন্যাভূমি এবং মৌসুমি জলাশয়সমূহ আঞ্চলিক জীববৈচিত্র্য সংরক্ষণে গুরুত্বপূর্ণ ভূমিকা পালন করে। তবে পলি জমা, নদীভাঙন, শুষ্ক মৌসুমে পানিপ্রবাহ হ্রাস, দখল এবং দূষণ নদীটির বিভিন্ন অংশকে প্রভাবিত করেছে। তাই বাঙালি নদীর পরিবেশগত ও অর্থনৈতিক গুরুত্ব বজায় রাখতে টেকসই ব্যবস্থাপনা ও সংরক্ষণ কার্যক্রম অত্যন্ত গুরুত্বপূর্ণ।",
+  "divisions_en": [
+    "Rajshahi",
+    "Rangpur"
+  ],
+  "divisions_bn": [
+    "রাজশাহী",
+    "রংপুর"
+  ],
+  "districts_en": [
+    "Sirajganj (The river originates from the Jamuna system near the district)",
+    "Bogura (Flows through a major portion of the district and supports agriculture and fisheries)",
+    "Gaibandha (Continues through the district and connects with the Karatoya–Phuljhor river system)"
+  ],
+  "districts_bn": [
+    "সিরাজগঞ্জ (যমুনা নদী ব্যবস্থা থেকে নদীটির উৎপত্তি এই জেলার নিকটবর্তী অঞ্চলে)",
+    "বগুড়া (জেলার একটি বড় অংশ দিয়ে প্রবাহিত হয়ে কৃষি ও মৎস্যসম্পদকে সহায়তা করে)",
+    "গাইবান্ধা (জেলার মধ্য দিয়ে প্রবাহিত হয়ে করতোয়া–ফুলঝোর নদী ব্যবস্থার সঙ্গে সংযুক্ত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

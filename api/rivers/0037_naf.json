@@ -1,0 +1,31 @@
+{
+  "id": 37,
+  "slug": "0037_naf",
+  "name_en": "Naf",
+  "name_bn": "নাফ",
+  "classification_en": "Major River / International Boundary River",
+  "classification_bn": "প্রধান নদী / আন্তর্জাতিক সীমান্ত নদী",
+  "parent_river_en": "Bay of Bengal",
+  "parent_river_bn": "বঙ্গোপসাগর",
+  "origin_en": "Originates in the Arakan Hills of Myanmar and flows southward along the Bangladesh–Myanmar border before emptying into the Bay of Bengal",
+  "origin_bn": "মিয়ানমারের আরাকান পাহাড় থেকে উৎপন্ন হয়ে বাংলাদেশ–মিয়ানমার সীমান্ত বরাবর দক্ষিণমুখে প্রবাহিত হয়ে বঙ্গোপসাগরে পতিত হয়েছে",
+  "length_km": 62,
+  "details_en": "The Naf River is an important international boundary river forming much of the border between Bangladesh and Myanmar. Originating in the Arakan Hills of Myanmar, the river flows southward between Cox's Bazar district of Bangladesh and Rakhine State of Myanmar before discharging into the Bay of Bengal. The Naf is strategically significant due to its role as a natural international boundary and as a vital waterway for local transportation, fisheries, and trade. The river estuary supports rich biodiversity, including mangrove vegetation, estuarine ecosystems, and numerous fish and crustacean species. The surrounding region is also ecologically important because of its proximity to the coastal ecosystems of southeastern Bangladesh. Seasonal variations in rainfall and upstream runoff strongly influence the river's flow and navigability. Over the years, the Naf River has gained international attention due to cross-border migration, refugee movements, security concerns, and transboundary environmental issues. Challenges affecting the river include sedimentation, erosion, coastal storms, sea-level rise, pollution, and climate change impacts. Despite these challenges, the Naf remains one of the most geopolitically and environmentally significant rivers in Bangladesh.",
+  "details_bn": "নাফ নদী বাংলাদেশ ও মিয়ানমারের মধ্যকার অন্যতম গুরুত্বপূর্ণ আন্তর্জাতিক সীমান্ত নদী। মিয়ানমারের আরাকান পাহাড় থেকে উৎপন্ন হয়ে নদীটি বাংলাদেশের কক্সবাজার জেলা এবং মিয়ানমারের রাখাইন রাজ্যের মধ্যবর্তী সীমান্ত বরাবর দক্ষিণ দিকে প্রবাহিত হয়ে বঙ্গোপসাগরে পতিত হয়েছে। প্রাকৃতিক আন্তর্জাতিক সীমারেখা হিসেবে নাফ নদীর কৌশলগত গুরুত্ব অত্যন্ত বেশি। একই সঙ্গে এটি স্থানীয় নৌ-পরিবহন, মৎস্যসম্পদ এবং সীমান্তবর্তী বাণিজ্যের জন্য একটি গুরুত্বপূর্ণ জলপথ। নদীর মোহনা অঞ্চলে সমৃদ্ধ জীববৈচিত্র্য বিদ্যমান, যার মধ্যে রয়েছে মোহনাভিত্তিক বাস্তুতন্ত্র, বিভিন্ন প্রজাতির মাছ, চিংড়ি ও অন্যান্য জলজ প্রাণী। দক্ষিণ-পূর্ব উপকূলীয় অঞ্চলের পরিবেশগত ভারসাম্য রক্ষায়ও নদীটির গুরুত্বপূর্ণ ভূমিকা রয়েছে। মৌসুমি বৃষ্টিপাত এবং উজানের পানিপ্রবাহ নদীর প্রবাহ ও নাব্যতাকে উল্লেখযোগ্যভাবে প্রভাবিত করে। সীমান্ত অতিক্রমকারী অভিবাসন, শরণার্থী চলাচল, নিরাপত্তা বিষয়ক চ্যালেঞ্জ এবং আন্তঃসীমান্ত পরিবেশগত ইস্যুর কারণে নাফ নদী আন্তর্জাতিক পর্যায়েও বিশেষ গুরুত্ব লাভ করেছে। বর্তমানে পলি জমা, নদীভাঙন, উপকূলীয় ঝড়, সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি, দূষণ এবং জলবায়ু পরিবর্তনের প্রভাব নদীটির জন্য গুরুত্বপূর্ণ চ্যালেঞ্জ। এসব সত্ত্বেও নাফ নদী বাংলাদেশের অন্যতম ভূরাজনৈতিক ও পরিবেশগতভাবে গুরুত্বপূর্ণ নদী হিসেবে বিশেষ মর্যাদা বহন করে।",
+  "divisions_en": [
+    "Chattogram"
+  ],
+  "divisions_bn": [
+    "চট্টগ্রাম"
+  ],
+  "districts_en": [
+    "Cox's Bazar (The river forms the southeastern international border of the district with Myanmar, particularly near Teknaf)"
+  ],
+  "districts_bn": [
+    "কক্সবাজার (বিশেষ করে টেকনাফ অঞ্চলে নদীটি জেলার দক্ষিণ-পূর্ব আন্তর্জাতিক সীমান্ত গঠন করেছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

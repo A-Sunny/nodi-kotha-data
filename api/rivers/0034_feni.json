@@ -1,0 +1,33 @@
+{
+  "id": 34,
+  "slug": "0034_feni",
+  "name_en": "Feni",
+  "name_bn": "ফেনী",
+  "classification_en": "Major River / Transboundary River",
+  "classification_bn": "প্রধান নদী / আন্তঃসীমান্ত নদী",
+  "parent_river_en": "Bay of Bengal",
+  "parent_river_bn": "বঙ্গোপসাগর",
+  "origin_en": "Originates in the South Tripura Hills of India, enters Bangladesh through Feni district, and flows southward before emptying into the Bay of Bengal",
+  "origin_bn": "ভারতের দক্ষিণ ত্রিপুরা পাহাড়ি অঞ্চল থেকে উৎপন্ন হয়ে ফেনী জেলা দিয়ে বাংলাদেশে প্রবেশ করে দক্ষিণমুখে প্রবাহিত হয়ে বঙ্গোপসাগরে পতিত হয়েছে",
+  "length_km": 116,
+  "details_en": "The Feni River is an important transboundary river in southeastern Bangladesh and serves as part of the international boundary between Bangladesh and India along sections of its course. Originating in the hills of Tripura, India, the river flows through the Feni region before eventually discharging into the Bay of Bengal. The Feni River plays a significant role in irrigation, agriculture, fisheries, and water supply for communities on both sides of the border. Its floodplains support crop cultivation, while the river itself provides habitat for numerous freshwater and estuarine species. During the monsoon season, the river experiences substantial increases in flow, sometimes causing floods and riverbank erosion in adjacent areas. In the dry season, water availability becomes more limited, making water-sharing and resource management important issues. The river has been the subject of bilateral discussions between Bangladesh and India regarding water utilization and allocation. Challenges facing the river include sedimentation, erosion, salinity intrusion near the estuary, pollution, and the impacts of climate change. Despite these challenges, the Feni River remains a vital natural resource supporting agriculture, ecosystems, and livelihoods in southeastern Bangladesh.",
+  "details_bn": "ফেনী নদী দক্ষিণ-পূর্ব বাংলাদেশের একটি গুরুত্বপূর্ণ আন্তঃসীমান্ত নদী এবং এর প্রবাহপথের কিছু অংশ বাংলাদেশ ও ভারতের আন্তর্জাতিক সীমান্ত হিসেবে কাজ করে। ভারতের ত্রিপুরা পাহাড়ি অঞ্চল থেকে উৎপন্ন হয়ে নদীটি ফেনী অঞ্চলের মধ্য দিয়ে প্রবাহিত হয়ে শেষ পর্যন্ত বঙ্গোপসাগরে পতিত হয়েছে। ফেনী নদী দুই দেশের সীমান্তবর্তী জনগোষ্ঠীর জন্য সেচ, কৃষি, মৎস্যসম্পদ এবং পানি সরবরাহের ক্ষেত্রে গুরুত্বপূর্ণ ভূমিকা পালন করে। এর বন্যাভূমি কৃষিকাজকে সহায়তা করে এবং নদীটি বিভিন্ন স্বাদুপানি ও মোহনাভিত্তিক প্রাণীর আবাসস্থল হিসেবে কাজ করে। বর্ষাকালে নদীর পানিপ্রবাহ উল্লেখযোগ্যভাবে বৃদ্ধি পায়, ফলে আশপাশের এলাকায় বন্যা ও নদীভাঙনের ঘটনা ঘটতে পারে। শুষ্ক মৌসুমে পানির প্রাপ্যতা কমে যায়, ফলে পানিবণ্টন ও জলসম্পদ ব্যবস্থাপনা একটি গুরুত্বপূর্ণ বিষয় হয়ে ওঠে। নদীটির পানি ব্যবহার ও বণ্টন নিয়ে বাংলাদেশ ও ভারতের মধ্যে বিভিন্ন সময়ে দ্বিপাক্ষিক আলোচনা হয়েছে। বর্তমানে পলি জমা, নদীভাঙন, মোহনা অঞ্চলে লবণাক্ততার অনুপ্রবেশ, দূষণ এবং জলবায়ু পরিবর্তনের প্রভাব নদীটির জন্য উল্লেখযোগ্য চ্যালেঞ্জ সৃষ্টি করছে। তবুও ফেনী নদী দক্ষিণ-পূর্ব বাংলাদেশের কৃষি, পরিবেশ ও নদীনির্ভর মানুষের জীবিকার জন্য একটি অত্যন্ত গুরুত্বপূর্ণ প্রাকৃতিক সম্পদ হিসেবে বিদ্যমান রয়েছে।",
+  "divisions_en": [
+    "Chattogram"
+  ],
+  "divisions_bn": [
+    "চট্টগ্রাম"
+  ],
+  "districts_en": [
+    "Feni (The river flows through and gives its name to the district)",
+    "Chattogram (Southern reaches of the river system extend toward the coastal region before entering the Bay of Bengal)"
+  ],
+  "districts_bn": [
+    "ফেনী (নদীটি জেলার মধ্য দিয়ে প্রবাহিত হয়েছে এবং জেলার নামকরণের উৎস)",
+    "চট্টগ্রাম (নদী ব্যবস্থার দক্ষিণাংশ উপকূলীয় অঞ্চলের দিকে প্রবাহিত হয়ে বঙ্গোপসাগরে পতিত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

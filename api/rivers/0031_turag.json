@@ -1,0 +1,33 @@
+{
+  "id": 31,
+  "slug": "0031_turag",
+  "name_en": "Turag",
+  "name_bn": "তুরাগ",
+  "classification_en": "Major River / Tributary",
+  "classification_bn": "প্রধান নদী / উপনদী",
+  "parent_river_en": "Buriganga River",
+  "parent_river_bn": "বুড়িগঙ্গা নদী",
+  "origin_en": "Branches off from the Bangshi River in the Gazipur region and flows southward along the western side of Dhaka before joining the Buriganga River",
+  "origin_bn": "গাজীপুর অঞ্চলে বংশী নদী থেকে উৎপন্ন হয়ে ঢাকার পশ্চিম প্রান্ত ঘেঁষে দক্ষিণমুখে প্রবাহিত হয়ে বুড়িগঙ্গা নদীর সঙ্গে মিলিত হয়েছে",
+  "length_km": 85,
+  "details_en": "The Turag River is one of the most important rivers surrounding Dhaka and forms a crucial part of the capital's river system. Originating from the Bangshi River near Gazipur, the Turag flows along the western boundary of Dhaka before merging with the Buriganga River. Historically, the river served as an important route for transportation, trade, agriculture, and fisheries. The Turag is especially known for hosting the annual Bishwa Ijtema, one of the largest Islamic congregations in the world, held on its banks at Tongi. The river contributes to local drainage, flood regulation, and groundwater recharge in the greater Dhaka region. However, rapid urbanization, industrial discharge, encroachment, and pollution have severely affected the river's water quality and ecological health. During the dry season, reduced flow often exacerbates pollution levels, while monsoon rains temporarily improve water circulation. Government and environmental organizations have undertaken various restoration and conservation efforts to improve the river's condition. Despite ongoing challenges, the Turag remains an essential component of Dhaka's environment, economy, transportation network, and cultural heritage.",
+  "details_bn": "তুরাগ নদী ঢাকাকে ঘিরে থাকা অন্যতম গুরুত্বপূর্ণ নদী এবং রাজধানীর নদী ব্যবস্থার একটি অপরিহার্য অংশ। গাজীপুরের নিকট বংশী নদী থেকে উৎপন্ন হয়ে নদীটি ঢাকার পশ্চিম সীমান্ত ঘেঁষে দক্ষিণ দিকে প্রবাহিত হয়ে বুড়িগঙ্গা নদীর সঙ্গে মিলিত হয়েছে। ঐতিহাসিকভাবে তুরাগ নদী পরিবহন, বাণিজ্য, কৃষি এবং মৎস্যসম্পদের জন্য একটি গুরুত্বপূর্ণ জলপথ হিসেবে ব্যবহৃত হয়ে আসছে। নদীটি বিশেষভাবে পরিচিত টঙ্গীতে এর তীরে অনুষ্ঠিত বিশ্ব ইজতেমার জন্য, যা বিশ্বের বৃহত্তম ইসলামি সমাবেশগুলোর একটি। তুরাগ বৃহত্তর ঢাকা অঞ্চলের জলনিষ্কাশন, বন্যা নিয়ন্ত্রণ এবং ভূগর্ভস্থ পানির পুনর্ভরণে গুরুত্বপূর্ণ ভূমিকা পালন করে। তবে দ্রুত নগরায়ণ, শিল্পবর্জ্য নিঃসরণ, নদীদখল এবং দূষণের কারণে নদীটির পানি ও পরিবেশগত স্বাস্থ্য মারাত্মকভাবে ক্ষতিগ্রস্ত হয়েছে। শুষ্ক মৌসুমে পানিপ্রবাহ কমে গেলে দূষণের মাত্রা আরও বৃদ্ধি পায়, যদিও বর্ষাকালে প্রবাহ বৃদ্ধি পাওয়ায় পরিস্থিতির কিছুটা উন্নতি হয়। নদী পুনরুদ্ধার ও সংরক্ষণের জন্য সরকারি ও পরিবেশবাদী বিভিন্ন উদ্যোগ গ্রহণ করা হয়েছে। নানা চ্যালেঞ্জ সত্ত্বেও তুরাগ নদী ঢাকা অঞ্চলের পরিবেশ, অর্থনীতি, নৌ-যোগাযোগ এবং সাংস্কৃতিক ঐতিহ্যের একটি গুরুত্বপূর্ণ অংশ হিসেবে আজও বিদ্যমান রয়েছে।",
+  "divisions_en": [
+    "Dhaka"
+  ],
+  "divisions_bn": [
+    "ঢাকা"
+  ],
+  "districts_en": [
+    "Gazipur (The river originates from the Bangshi River near the district and flows through Tongi area)",
+    "Dhaka (Flows along the western boundary of the capital and joins the Buriganga River)"
+  ],
+  "districts_bn": [
+    "গাজীপুর (বংশী নদী থেকে উৎপন্ন হয়ে টঙ্গী অঞ্চলের মধ্য দিয়ে প্রবাহিত হয়েছে)",
+    "ঢাকা (রাজধানীর পশ্চিম সীমান্ত ঘেঁষে প্রবাহিত হয়ে বুড়িগঙ্গা নদীর সঙ্গে মিলিত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 32,
+  "slug": "0032_manu",
+  "name_en": "Manu",
+  "name_bn": "মনু",
+  "classification_en": "Major River / Tributary",
+  "classification_bn": "প্রধান নদী / উপনদী",
+  "parent_river_en": "Kushiyara River",
+  "parent_river_bn": "কুশিয়ারা নদী",
+  "origin_en": "Originates in the Tripura Hills of India and enters Bangladesh through Moulvibazar district before flowing northward to join the Kushiyara River",
+  "origin_bn": "ভারতের ত্রিপুরা পাহাড় থেকে উৎপন্ন হয়ে মৌলভীবাজার জেলা দিয়ে বাংলাদেশে প্রবেশ করে উত্তরমুখে প্রবাহিত হয়ে কুশিয়ারা নদীর সঙ্গে মিলিত হয়েছে",
+  "length_km": 167,
+  "details_en": "The Manu River is one of the major transboundary rivers of northeastern Bangladesh and an important tributary of the Kushiyara River. Originating in the hilly regions of Tripura, India, the river enters Bangladesh through Moulvibazar district and flows through fertile plains before joining the Kushiyara. The Manu plays a significant role in the hydrology, agriculture, fisheries, and ecology of the Sylhet region. During the monsoon season, the river receives large volumes of runoff from the surrounding hills, often resulting in flooding in adjacent low-lying areas. While these floods can damage crops and infrastructure, they also deposit nutrient-rich sediments that enhance agricultural productivity. The river supports irrigation, inland fisheries, and local transportation for many communities living along its banks. Its floodplains, wetlands, and connected haor ecosystems provide habitats for numerous fish species, migratory birds, and other wildlife. However, riverbank erosion, sedimentation, seasonal flooding, and environmental pressures from land-use changes continue to affect the river system. Despite these challenges, the Manu remains a vital watercourse that contributes significantly to the economy, biodiversity, and cultural landscape of northeastern Bangladesh.",
+  "details_bn": "মনু নদী উত্তর-পূর্ব বাংলাদেশের অন্যতম প্রধান আন্তঃসীমান্ত নদী এবং কুশিয়ারা নদীর একটি গুরুত্বপূর্ণ উপনদী। ভারতের ত্রিপুরা পাহাড়ি অঞ্চল থেকে উৎপন্ন হয়ে নদীটি মৌলভীবাজার জেলা দিয়ে বাংলাদেশে প্রবেশ করে উর্বর সমভূমি অতিক্রম করে কুশিয়ারা নদীর সঙ্গে মিলিত হয়েছে। সিলেট অঞ্চলের জলপ্রবাহ ব্যবস্থা, কৃষি, মৎস্যসম্পদ এবং পরিবেশগত ভারসাম্যের জন্য মনু নদীর গুরুত্ব অত্যন্ত বেশি। বর্ষাকালে পার্শ্ববর্তী পাহাড়ি অঞ্চল থেকে বিপুল পরিমাণ পানি নেমে এসে নদীর প্রবাহ বৃদ্ধি করে এবং অনেক সময় আশপাশের নিম্নাঞ্চলে বন্যা সৃষ্টি করে। এসব বন্যা ফসল ও অবকাঠামোর ক্ষতি করলেও উর্বর পলিমাটি জমা করে কৃষি উৎপাদনশীলতা বৃদ্ধি করে। নদীটি সেচ, অভ্যন্তরীণ মৎস্যসম্পদ এবং স্থানীয় নৌ-যোগাযোগের একটি গুরুত্বপূর্ণ উৎস। এর বন্যাভূমি, জলাভূমি এবং সংযুক্ত হাওর অঞ্চল বহু প্রজাতির মাছ, পরিযায়ী পাখি এবং অন্যান্য বন্যপ্রাণীর আবাসস্থল হিসেবে কাজ করে। তবে নদীভাঙন, পলি জমা, মৌসুমি বন্যা এবং ভূমি ব্যবহারজনিত পরিবেশগত চাপ নদীটির স্বাভাবিক প্রবাহ ব্যবস্থাকে প্রভাবিত করছে। এসব চ্যালেঞ্জ সত্ত্বেও মনু নদী উত্তর-পূর্ব বাংলাদেশের অর্থনীতি, জীববৈচিত্র্য এবং সাংস্কৃতিক ভূদৃশ্যের একটি অপরিহার্য অংশ হিসেবে গুরুত্বপূর্ণ ভূমিকা পালন করে যাচ্ছে।",
+  "divisions_en": [
+    "Sylhet"
+  ],
+  "divisions_bn": [
+    "সিলেট"
+  ],
+  "districts_en": [
+    "Moulvibazar (The river enters Bangladesh through the district and flows through a major portion of it)",
+    "Habiganj (Lower reaches of the river system contribute to regional wetlands and eventually connect with the Kushiyara River)"
+  ],
+  "districts_bn": [
+    "মৌলভীবাজার (নদীটি বাংলাদেশে প্রবেশ করে এবং জেলার একটি বৃহৎ অংশ দিয়ে প্রবাহিত হয়েছে)",
+    "হবিগঞ্জ (নদী ব্যবস্থার নিম্নাংশ আঞ্চলিক জলাভূমিতে অবদান রাখে এবং শেষ পর্যন্ত কুশিয়ারা নদীর সঙ্গে সংযুক্ত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

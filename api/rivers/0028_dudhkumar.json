@@ -1,0 +1,31 @@
+{
+  "id": 28,
+  "slug": "0028_dudhkumar",
+  "name_en": "Dudhkumar",
+  "name_bn": "দুধকুমার",
+  "classification_en": "Major River / Tributary",
+  "classification_bn": "প্রধান নদী / উপনদী",
+  "parent_river_en": "Brahmaputra River (Jamuna)",
+  "parent_river_bn": "ব্রহ্মপুত্র নদ (যমুনা)",
+  "origin_en": "Originates in the Himalayan foothills of Bhutan and India, enters Bangladesh through Bhurungamari Upazila of Kurigram district, and flows southward before joining the Brahmaputra (Jamuna) River",
+  "origin_bn": "ভুটান ও ভারতের হিমালয় পাদদেশীয় অঞ্চল থেকে উৎপন্ন হয়ে কুড়িগ্রাম জেলার ভুরুঙ্গামারী উপজেলা দিয়ে বাংলাদেশে প্রবেশ করে দক্ষিণমুখে প্রবাহিত হয়ে ব্রহ্মপুত্র (যমুনা) নদীর সঙ্গে মিলিত হয়েছে",
+  "length_km": 130,
+  "details_en": "The Dudhkumar River is an important transboundary river of northern Bangladesh and a major tributary of the Brahmaputra (Jamuna) River. Rising in the Himalayan foothills of Bhutan and northeastern India, the river enters Bangladesh through Kurigram district and flows through several northern floodplain areas before joining the Brahmaputra. The river is known for its strong seasonal variations in discharge, with water levels increasing dramatically during the monsoon season. These seasonal floods frequently inundate surrounding agricultural lands and settlements, causing damage but also depositing nutrient-rich sediments that enhance soil fertility. The Dudhkumar supports irrigation, fisheries, transportation, and the livelihoods of thousands of people living along its banks. Numerous chars and floodplain habitats have developed along the river, supporting diverse ecosystems and local communities. However, the river is also associated with riverbank erosion, channel migration, sediment accumulation, and recurring flood hazards. Climate change, changing rainfall patterns, and upstream hydrological alterations may further affect its flow regime in the future. Despite these challenges, the Dudhkumar remains a vital component of the hydrological network, agriculture, and economy of northern Bangladesh.",
+  "details_bn": "দুধকুমার নদী উত্তর বাংলাদেশের একটি গুরুত্বপূর্ণ আন্তঃসীমান্ত নদী এবং ব্রহ্মপুত্র (যমুনা) নদীর একটি প্রধান উপনদী। ভুটান ও ভারতের উত্তর-পূর্বাঞ্চলের হিমালয় পাদদেশীয় অঞ্চল থেকে উৎপন্ন হয়ে নদীটি কুড়িগ্রাম জেলা দিয়ে বাংলাদেশে প্রবেশ করে এবং উত্তরাঞ্চলের বিস্তীর্ণ বন্যাপ্রবণ সমভূমি অতিক্রম করে ব্রহ্মপুত্র নদে মিলিত হয়েছে। নদীটির পানিপ্রবাহ মৌসুমি বৈচিত্র্যের জন্য পরিচিত; বর্ষাকালে পানির পরিমাণ দ্রুত বৃদ্ধি পায় এবং আশপাশের কৃষিজমি ও জনবসতি প্লাবিত হয়। এসব বন্যা একদিকে ক্ষয়ক্ষতি ঘটালেও অন্যদিকে উর্বর পলিমাটি এনে জমির উৎপাদনশীলতা বৃদ্ধি করে। দুধকুমার নদী সেচ, মৎস্যসম্পদ, নৌ-যোগাযোগ এবং নদীতীরবর্তী হাজারো মানুষের জীবিকার জন্য অত্যন্ত গুরুত্বপূর্ণ। নদীটির তীর ও বুকে বহু চর ও বন্যাভূমি গড়ে উঠেছে, যা বিভিন্ন জীববৈচিত্র্য ও স্থানীয় জনগোষ্ঠীর আবাসস্থল হিসেবে কাজ করে। তবে নদীভাঙন, গতিপথ পরিবর্তন, পলি জমা এবং নিয়মিত বন্যা এই নদীকেন্দ্রিক অঞ্চলের জন্য বড় চ্যালেঞ্জ। জলবায়ু পরিবর্তন, বৃষ্টিপাতের ধরনে পরিবর্তন এবং উজানের জলপ্রবাহের পরিবর্তন ভবিষ্যতে নদীর স্বাভাবিক প্রবাহ ব্যবস্থাকে আরও প্রভাবিত করতে পারে। এসব চ্যালেঞ্জ সত্ত্বেও দুধকুমার নদী উত্তর বাংলাদেশের জলপ্রবাহ ব্যবস্থা, কৃষি ও অর্থনীতির একটি অপরিহার্য অংশ হিসেবে গুরুত্বপূর্ণ ভূমিকা পালন করে যাচ্ছে।",
+  "divisions_en": [
+    "Rangpur"
+  ],
+  "divisions_bn": [
+    "রংপুর"
+  ],
+  "districts_en": [
+    "Kurigram (The river enters Bangladesh through Bhurungamari Upazila and flows through several parts of the district before joining the Brahmaputra)"
+  ],
+  "districts_bn": [
+    "কুড়িগ্রাম (ভুরুঙ্গামারী উপজেলা দিয়ে বাংলাদেশে প্রবেশ করে জেলার বিভিন্ন অংশ দিয়ে প্রবাহিত হয়ে ব্রহ্মপুত্র নদে মিলিত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}
