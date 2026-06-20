@@ -1,100 +1,100 @@
 [
     {
         "id": 1,
-        "slug": "padma",
+        "slug": "0001_padma",
         "name_en": "Padma",
         "name_bn": "পদ্মা"
     },
     {
         "id": 2,
-        "slug": "jamuna",
+        "slug": "0002_jamuna",
         "name_en": "Jamuna",
         "name_bn": "যমুনা"
     },
     {
         "id": 3,
-        "slug": "meghna",
+        "slug": "003_meghna",
         "name_en": "Meghna",
         "name_bn": "মেঘনা"
     },
     {
         "id": 4,
-        "slug": "buriganga",
+        "slug": "0004_buriganga",
         "name_en": "Buriganga",
         "name_bn": "বুড়িগঙ্গা"
     },
     {
         "id": 5,
-        "slug": "karnaphuli",
+        "slug": "0005_karnaphuli",
         "name_en": "Karnaphuli",
         "name_bn": "কর্ণফুলী"
     },
     {
         "id": 6,
-        "slug": "surma",
+        "slug": "0006_surma",
         "name_en": "Surma",
         "name_bn": "সুরমা"
     },
     {
         "id": 7,
-        "slug": "bangshi",
+        "slug": "0007_bangshi",
         "name_en": "Bangshi River",
         "name_bn": "বংশী নদী"
     },
 
     {
         "id": 8,
-        "slug": "atrai",
+        "slug": "0008_atrai",
         "name_en": "Atrai River",
         "name_bn": "আত্রাই নদী"
     },
 
     {
         "id": 9,
-        "slug": "dhaleshwari",
+        "slug": "0009_dhaleshwari",
         "name_en": "Dhaleshwari River",
         "name_bn": "ঢালেশ্বরী নদী"
     },
     
     {
         "id": 10,
-        "slug": "bramhaputra",
+        "slug": "0010_bramhaputra",
         "name_en": "Brahmaputra River",
         "name_bn": "ব্রহ্মপুত্র নদী"
     },
     {
         "id": 11,
-        "slug": "teesta",
+        "slug": "0011_teesta",
         "name_en": "Teesta River",
         "name_bn": "তিস্তা নদী"
     },
     {
         "id": 12,
-        "slug": "kushiyara",
+        "slug": "0012_kushiyara",
         "name_en": "Kushiyara",
         "name_bn": "কুশিয়ারা"
     },
     {
         "id": 13,
-        "slug": "mahananda",
+        "slug": "0013_mahananda",
         "name_en": "Mahananda River",
         "name_bn": "মহানন্দা নদী"
     },
     {
         "id": 14,
-        "slug": "old-brahmaputra",
+        "slug": "0014_old-brahmaputra",
         "name_en": "Old Brahmaputra River",
         "name_bn": "পুরনো ব্রহ্মপুত্র নদী"
     },
     {
         "id": 15,
-        "slug": "shitalakshya",
+        "slug": "0015_shitalakshya",
         "name_en": "Shitalakshya River",
         "name_bn": "শিতালাক্ষ্য নদী"
     },
     {
         "id": 16,
-        "slug": "madhumati",
+        "slug": "0016_madhumati",
         "name_en": "Madhumati River",
         "name_bn": "মাধুমতী নদী"
     }
