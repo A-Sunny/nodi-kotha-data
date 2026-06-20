@@ -154,6 +154,89 @@
         "slug": "0025_poshur",
         "name_en": "Poshur River",
         "name_bn": "পশুর নদী"
+    },
+    {
+        "id": 26,
+        "slug": "0026_arial-khan",
+        "name_en": "Arial Khan River",
+        "name_bn": "আড়িয়াল খাঁ নদী"
+    },
+    {
+        "id": 27,
+        "slug": "0027_dharla",
+        "name_en": "Dharla River",
+        "name_bn": "ধরলা নদী"
+    },
+    {
+        "id": 28,
+        "slug": "0028_dudhkumar",
+        "name_en": "Dudhkumar River",
+        "name_bn": "দুধকুমার নদী"
+    },
+    {
+        "id": 29,
+        "slug": "0029_bangali",
+        "name_en": "Bangali River",
+        "name_bn": "বাঙালি নদী"
+    },
+    {
+        "id": 30,
+        "slug": "0030_karatoya",
+        "name_en": "Karatoya River",
+        "name_bn": "করতোয়া নদী"
+    },
+    {
+        "id": 31,
+        "slug": "0031_turag",
+        "name_en": "Turag River",
+        "name_bn": "তুরাগ নদী"
+    },
+    {
+        "id": 32,
+        "slug": "0032_manu",
+        "name_en": "Manu River",
+        "name_bn": "মনু নদী"
+    },
+    {
+        "id": 33,
+        "slug": "0033_gomti",
+        "name_en": "Gomti River",
+        "name_bn": "গোমতী নদী"
+    },
+    {
+        "id": 34,
+        "slug": "0034_feni",
+        "name_en": "Feni River",
+        "name_bn": "ফেনী নদী"
+    },
+    {
+        "id": 35,
+        "slug": "0035_titas",
+        "name_en": "Titas River",
+        "name_bn": "তিতাস নদী"
+    },
+    {
+        "id": 36,
+        "slug": "0036_sangu",
+        "name_en": "Sangu River",
+        "name_bn": "সাংগু নদী"
+    },
+    {
+        "id": 37,
+        "slug": "0037_naf",
+        "name_en": "Naf River",
+        "name_bn": "নাফ নদী"
+    },
+    {
+        "id": 38,
+        "slug": "0038_bakkhali",
+        "name_en": "Bakkhali River",
+        "name_bn": "বাঁকখালী নদী"
+    },
+    {
+        "id": 40,
+        "slug": "0004_buriganga",
+        "name_en": "Punarbhaba River",
+        "name_bn": "পুনর্ভাবা নদী"
     }
-    
 ]
