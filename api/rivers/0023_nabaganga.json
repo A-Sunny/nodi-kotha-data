@@ -1,0 +1,37 @@
+{
+  "id": 23,
+  "slug": "0023_nabaganga",
+  "name_en": "Nabaganga",
+  "name_bn": "নবগঙ্গা",
+  "classification_en": "Major River / Distributary",
+  "classification_bn": "প্রধান নদী / শাখা নদী",
+  "parent_river_en": "Mathabhanga River",
+  "parent_river_bn": "মাথাভাঙ্গা নদী",
+  "origin_en": "Branches off from the Mathabhanga River near Chuadanga and flows southeast through Jhenaidah and Magura districts before joining the Madhumati River",
+  "origin_bn": "চুয়াডাঙ্গার কাছে মাথাভাঙ্গা নদী থেকে শাখা হিসেবে উৎপন্ন হয়ে দক্ষিণ-পূর্ব দিকে ঝিনাইদহ ও মাগুরা জেলার মধ্য দিয়ে প্রবাহিত হয়ে মধুমতি নদীর সঙ্গে মিলিত হয়েছে",
+  "length_km": 230,
+  "details_en": "The Nabaganga River is one of the principal rivers of southwestern Bangladesh and an important distributary of the Mathabhanga River. Originating near Chuadanga, the river flows southeast through Jhenaidah and Magura districts before eventually joining the Madhumati River near Narail. Historically, the Nabaganga served as a major waterway for transportation, agriculture, fisheries, and regional trade, supporting numerous settlements and marketplaces along its banks. Several important tributaries and distributaries, including the Chitra River, originate from or are connected to the Nabaganga system. The river contributes significantly to the fertility of the floodplains and provides irrigation water for extensive agricultural lands. During the monsoon season, it helps replenish wetlands and groundwater resources throughout southwestern Bangladesh. However, reduced upstream flow, extensive siltation, encroachment, and seasonal water shortages have severely affected the river's navigability and ecological health. In many places, the river has narrowed considerably and suffers from waterlogging and loss of biodiversity. Various dredging and river restoration projects have been undertaken to restore its natural flow and preserve its economic and environmental importance.",
+  "details_bn": "নবগঙ্গা নদী বাংলাদেশের দক্ষিণ-পশ্চিমাঞ্চলের অন্যতম প্রধান নদী এবং মাথাভাঙ্গা নদীর একটি গুরুত্বপূর্ণ শাখা। চুয়াডাঙ্গার কাছে উৎপন্ন হয়ে নদীটি ঝিনাইদহ ও মাগুরা জেলার মধ্য দিয়ে দক্ষিণ-পূর্ব দিকে প্রবাহিত হয়ে নড়াইলের কাছে মধুমতি নদীর সঙ্গে মিলিত হয়েছে। ঐতিহাসিকভাবে নবগঙ্গা নদী নৌ-পরিবহন, কৃষি, মৎস্য সম্পদ এবং আঞ্চলিক বাণিজ্যের জন্য একটি গুরুত্বপূর্ণ জলপথ ছিল এবং এর তীরে বহু জনপদ ও বাজার গড়ে উঠেছে। চিত্রা নদীসহ বেশ কয়েকটি গুরুত্বপূর্ণ শাখা নদী নবগঙ্গা নদী ব্যবস্থার সঙ্গে যুক্ত। নদীটি আশপাশের বন্যাপ্রবণ সমভূমির উর্বরতা বৃদ্ধি এবং বিস্তীর্ণ কৃষিজমিতে সেচের পানি সরবরাহে গুরুত্বপূর্ণ ভূমিকা পালন করে। বর্ষাকালে এটি দক্ষিণ-পশ্চিমাঞ্চলের জলাভূমি ও ভূগর্ভস্থ পানির পুনঃভরণেও সহায়তা করে। তবে উজানের পানিপ্রবাহ হ্রাস, ব্যাপক পলি জমা, নদীদখল এবং মৌসুমি পানির স্বল্পতার কারণে নদীটির নাব্যতা ও পরিবেশগত ভারসাম্য মারাত্মকভাবে ক্ষতিগ্রস্ত হয়েছে। অনেক স্থানে নদীটি সংকুচিত হয়ে পড়েছে এবং জলাবদ্ধতা ও জীববৈচিত্র্যের ক্ষয় দেখা দিয়েছে। নদীটির স্বাভাবিক প্রবাহ পুনরুদ্ধার এবং এর অর্থনৈতিক ও পরিবেশগত গুরুত্ব সংরক্ষণের জন্য বিভিন্ন সময়ে খনন ও পুনরুদ্ধার প্রকল্প গ্রহণ করা হয়েছে।",
+  "divisions_en": [
+    "Khulna"
+  ],
+  "divisions_bn": [
+    "খুলনা"
+  ],
+  "districts_en": [
+    "Chuadanga (Originates from the Mathabhanga River near the district)",
+    "Jhenaidah (Flows through the central part of the district and gives rise to several distributaries)",
+    "Magura (Flows through the district and supports agriculture and fisheries)",
+    "Narail (Joins the Madhumati River near the district)"
+  ],
+  "districts_bn": [
+    "চুয়াডাঙ্গা (মাথাভাঙ্গা নদী থেকে উৎপন্ন হয়েছে)",
+    "ঝিনাইদহ (জেলার মধ্যভাগ দিয়ে প্রবাহিত হয়ে একাধিক শাখা নদীর জন্ম দিয়েছে)",
+    "মাগুরা (জেলার মধ্য দিয়ে প্রবাহিত হয়ে কৃষি ও মৎস্য সম্পদকে সমর্থন করেছে)",
+    "নড়াইল (জেলার কাছে মধুমতি নদীর সঙ্গে মিলিত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

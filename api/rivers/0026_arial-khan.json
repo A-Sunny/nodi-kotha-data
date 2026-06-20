@@ -1,0 +1,37 @@
+{
+  "id": 26,
+  "slug": "0026_arial_khan",
+  "name_en": "Arial Khan",
+  "name_bn": "আড়িয়াল খাঁ",
+  "classification_en": "Major River / Distributary",
+  "classification_bn": "প্রধান নদী / শাখা নদী",
+  "parent_river_en": "Padma River",
+  "parent_river_bn": "পদ্মা নদী",
+  "origin_en": "Branches off from the Padma River near Faridpur and flows southeast through Madaripur and Shariatpur districts before joining the Lower Meghna River",
+  "origin_bn": "ফরিদপুরের কাছে পদ্মা নদী থেকে শাখা হিসেবে উৎপন্ন হয়ে দক্ষিণ-পূর্ব দিকে মাদারীপুর ও শরীয়তপুর জেলার মধ্য দিয়ে প্রবাহিত হয়ে নিম্ন মেঘনা নদীর সঙ্গে মিলিত হয়েছে",
+  "length_km": 160,
+  "details_en": "The Arial Khan River is one of the principal distributaries of the Padma River and an important river of south-central Bangladesh. Originating from the Padma near Faridpur, the river flows southeast through Madaripur and Shariatpur districts before eventually joining the Lower Meghna River. Historically, the Arial Khan served as a major route for inland navigation and commerce, connecting the fertile floodplains of central Bangladesh with the Meghna estuary. The river supports agriculture, fisheries, transportation, and the livelihoods of millions of people living along its banks. Numerous tributaries and distributaries, including channels connected with the Kumar River system, contribute to its flow. During the monsoon season, the river helps distribute floodwaters and replenish wetlands and groundwater resources. Economically, it plays an essential role in irrigation and river transport throughout the region. However, erosion, siltation, and seasonal changes in flow have altered the river's course over time, causing the loss of agricultural land and affecting navigation in several areas. Despite these challenges, the Arial Khan remains one of the most significant rivers of the greater Faridpur region and continues to sustain the economy and ecology of south-central Bangladesh.",
+  "details_bn": "আড়িয়াল খাঁ নদী পদ্মা নদীর অন্যতম প্রধান শাখা এবং বাংলাদেশের দক্ষিণ-মধ্যাঞ্চলের একটি গুরুত্বপূর্ণ নদী। ফরিদপুরের কাছে পদ্মা নদী থেকে উৎপন্ন হয়ে নদীটি মাদারীপুর ও শরীয়তপুর জেলার মধ্য দিয়ে দক্ষিণ-পূর্ব দিকে প্রবাহিত হয়ে শেষ পর্যন্ত নিম্ন মেঘনা নদীর সঙ্গে মিলিত হয়েছে। ঐতিহাসিকভাবে আড়িয়াল খাঁ নদী অভ্যন্তরীণ নৌ-পরিবহন ও বাণিজ্যের একটি গুরুত্বপূর্ণ পথ হিসেবে ব্যবহৃত হয়েছে এবং মধ্য বাংলাদেশের উর্বর সমভূমিকে মেঘনা মোহনার সঙ্গে সংযুক্ত করেছে। নদীটি কৃষি, মৎস্য সম্পদ, নৌ-যোগাযোগ এবং নদীতীরবর্তী লাখো মানুষের জীবিকার জন্য অত্যন্ত গুরুত্বপূর্ণ। কুমার নদী ব্যবস্থার সঙ্গে যুক্ত বিভিন্ন শাখা ও উপনদী এর প্রবাহকে সমৃদ্ধ করেছে। বর্ষাকালে নদীটি বন্যার পানি বণ্টন, জলাভূমি পুনরুজ্জীবন এবং ভূগর্ভস্থ পানির পুনঃভরণে গুরুত্বপূর্ণ ভূমিকা পালন করে। অর্থনৈতিকভাবে এটি সেচ ও নৌ-পরিবহনের জন্য অপরিহার্য। তবে ভাঙন, পলি জমা এবং মৌসুমি পানিপ্রবাহের পরিবর্তনের কারণে সময়ের সঙ্গে সঙ্গে নদীর গতিপথ পরিবর্তিত হয়েছে, যার ফলে বহু কৃষিজমি বিলীন হয়েছে এবং বিভিন্ন স্থানে নৌ-চলাচল ব্যাহত হয়েছে। এসব চ্যালেঞ্জ সত্ত্বেও আড়িয়াল খাঁ নদী বৃহত্তর ফরিদপুর অঞ্চলের অন্যতম গুরুত্বপূর্ণ নদী হিসেবে দক্ষিণ-মধ্য বাংলাদেশের অর্থনীতি ও পরিবেশকে সমৃদ্ধ করে চলেছে।",
+  "divisions_en": [
+    "Dhaka",
+    "Barisal"
+  ],
+  "divisions_bn": [
+    "ঢাকা",
+    "বরিশাল"
+  ],
+  "districts_en": [
+    "Faridpur (Branches off from the Padma River near the district)",
+    "Madaripur (Flows through the heart of the district and supports agriculture and navigation)",
+    "Shariatpur (Forms an important river corridor before joining the Lower Meghna)"
+  ],
+  "districts_bn": [
+    "ফরিদপুর (পদ্মা নদী থেকে শাখা হিসেবে উৎপন্ন হয়েছে)",
+    "মাদারীপুর (জেলার মধ্যভাগ দিয়ে প্রবাহিত হয়ে কৃষি ও নৌ-যোগাযোগকে সমর্থন করেছে)",
+    "শরীয়তপুর (গুরুত্বপূর্ণ নদীপথ গঠন করে নিম্ন মেঘনা নদীর সঙ্গে মিলিত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

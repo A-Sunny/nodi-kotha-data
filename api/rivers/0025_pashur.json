@@ -1,0 +1,35 @@
+{
+  "id": 25,
+  "slug": "0025_pasur",
+  "name_en": "Pasur",
+  "name_bn": "পশুর",
+  "classification_en": "Tidal River / Estuarine River",
+  "classification_bn": "জোয়ার-ভাটার নদী / মোহনা নদী",
+  "parent_river_en": "Rupsha River",
+  "parent_river_bn": "রূপসা নদী",
+  "origin_en": "Formed by the continuation of the Rupsha River south of Khulna and flows through the eastern Sundarbans before emptying into the Bay of Bengal",
+  "origin_bn": "খুলনার দক্ষিণে রূপসা নদীর ধারাবাহিকতায় উৎপন্ন হয়ে পূর্ব সুন্দরবনের মধ্য দিয়ে প্রবাহিত হয়ে বঙ্গোপসাগরে পতিত হয়েছে",
+  "length_km": 145,
+  "details_en": "The Pasur River is one of the most important tidal rivers of southwestern Bangladesh and the principal navigational channel through the eastern Sundarbans. It originates as the continuation of the Rupsha River south of Khulna and flows through Bagerhat district and the eastern portion of the Sundarbans before discharging into the Bay of Bengal. Strongly influenced by the tides of the sea, the river forms part of the vast estuarine network that sustains the world's largest mangrove forest. The Pasur is of immense economic importance because it serves as the main waterway to Mongla Port, the second-largest seaport of Bangladesh. Large cargo vessels and inland ships regularly navigate the river, making it a vital artery for domestic and international trade. The river also supports fisheries, shrimp farming, and the livelihoods of thousands of people living around the Sundarbans. Ecologically, the Pasur provides a critical habitat for numerous species of fish, dolphins, crocodiles, and other wildlife, while supplying freshwater and nutrients essential to the mangrove ecosystem. However, increasing salinity, industrial activities, oil spills, and shipping-related pollution pose significant threats to the river and the biodiversity of the Sundarbans. Protecting the Pasur River is therefore essential for preserving both the ecological integrity of the Sundarbans and the economic prosperity of southwestern Bangladesh.",
+  "details_bn": "পশুর নদী বাংলাদেশের দক্ষিণ-পশ্চিমাঞ্চলের অন্যতম গুরুত্বপূর্ণ জোয়ার-ভাটার নদী এবং পূর্ব সুন্দরবনের প্রধান নৌপথ। খুলনার দক্ষিণে রূপসা নদীর ধারাবাহিকতায় উৎপন্ন হয়ে নদীটি বাগেরহাট জেলা ও পূর্ব সুন্দরবনের মধ্য দিয়ে প্রবাহিত হয়ে বঙ্গোপসাগরে পতিত হয়েছে। সমুদ্রের জোয়ার-ভাটার প্রবল প্রভাবের কারণে এটি বিশ্বের বৃহত্তম ম্যানগ্রোভ বন সুন্দরবনের বিস্তৃত মোহনা নদী ব্যবস্থার একটি গুরুত্বপূর্ণ অংশ। অর্থনৈতিকভাবে পশুর নদীর গুরুত্ব অপরিসীম, কারণ এটি বাংলাদেশের দ্বিতীয় বৃহত্তম সমুদ্রবন্দর মোংলা বন্দরের প্রধান নৌপথ হিসেবে ব্যবহৃত হয়। বড় বড় জাহাজ ও অভ্যন্তরীণ নৌযান নিয়মিত এই নদীপথ ব্যবহার করে, যা দেশীয় ও আন্তর্জাতিক বাণিজ্যের জন্য অত্যন্ত গুরুত্বপূর্ণ। নদীটি মৎস্য সম্পদ, চিংড়ি চাষ এবং সুন্দরবনসংলগ্ন হাজারো মানুষের জীবিকার অন্যতম ভিত্তি। পরিবেশগতভাবে পশুর নদী বিভিন্ন প্রজাতির মাছ, শুশুক, কুমির ও অন্যান্য বন্যপ্রাণীর জন্য গুরুত্বপূর্ণ আবাসস্থল এবং সুন্দরবনের ম্যানগ্রোভ বাস্তুতন্ত্রের জন্য প্রয়োজনীয় পুষ্টি ও মিষ্টি পানি সরবরাহে ভূমিকা রাখে। তবে ক্রমবর্ধমান লবণাক্ততা, শিল্প কার্যক্রম, তেল দূষণ এবং নৌযান থেকে সৃষ্ট দূষণ নদীটির পরিবেশগত ভারসাম্য ও সুন্দরবনের জীববৈচিত্র্যের জন্য বড় হুমকি হয়ে দাঁড়িয়েছে। তাই সুন্দরবনের পরিবেশগত অখণ্ডতা এবং দক্ষিণ-পশ্চিমাঞ্চলের অর্থনৈতিক সমৃদ্ধি রক্ষার জন্য পশুর নদীর সংরক্ষণ অত্যন্ত গুরুত্বপূর্ণ।",
+  "divisions_en": [
+    "Khulna"
+  ],
+  "divisions_bn": [
+    "খুলনা"
+  ],
+  "districts_en": [
+    "Khulna (Upper reaches connected with the Rupsha River system)",
+    "Bagerhat (Flows through the district and provides access to Mongla Port)",
+    "Sundarbans Region (Traverses the eastern part of the mangrove forest before entering the Bay of Bengal)"
+  ],
+  "districts_bn": [
+    "খুলনা (উচ্চ প্রবাহে রূপসা নদী ব্যবস্থার সঙ্গে সংযুক্ত)",
+    "বাগেরহাট (জেলার মধ্য দিয়ে প্রবাহিত হয়ে মোংলা বন্দরের নৌপথ গঠন করেছে)",
+    "সুন্দরবন অঞ্চল (ম্যানগ্রোভ বনের পূর্বাংশ অতিক্রম করে বঙ্গোপসাগরে পতিত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

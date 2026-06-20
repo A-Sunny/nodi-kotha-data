@@ -1,0 +1,33 @@
+{
+  "id": 27,
+  "slug": "0027_dharla",
+  "name_en": "Dharla",
+  "name_bn": "ধরলা",
+  "classification_en": "Major River / Tributary",
+  "classification_bn": "প্রধান নদী / উপনদী",
+  "parent_river_en": "Brahmaputra River (Jamuna)",
+  "parent_river_bn": "ব্রহ্মপুত্র নদ (যমুনা)",
+  "origin_en": "Originates in the eastern Himalayas of India and Bhutan and enters Bangladesh through Lalmonirhat district before flowing south to join the Brahmaputra (Jamuna) River near Kurigram",
+  "origin_bn": "ভারত ও ভুটানের পূর্ব হিমালয় অঞ্চল থেকে উৎপন্ন হয়ে লালমনিরহাট জেলা দিয়ে বাংলাদেশে প্রবেশ করে দক্ষিণ দিকে প্রবাহিত হয়ে কুড়িগ্রামের কাছে ব্রহ্মপুত্র (যমুনা) নদীর সঙ্গে মিলিত হয়েছে",
+  "length_km": 110,
+  "details_en": "The Dharla River is one of the most important transboundary rivers in northern Bangladesh and a significant tributary of the Brahmaputra (Jamuna) River. Originating in the Himalayan foothills of India and Bhutan, the river enters Bangladesh through Lalmonirhat district and flows through Kurigram before joining the Brahmaputra. The Dharla is highly dynamic and is characterized by frequent changes in course, severe bank erosion, and seasonal flooding. During the monsoon season, the river swells rapidly, inundating vast areas and causing considerable damage to settlements and agricultural land. At the same time, these floods replenish the fertility of the floodplains and support extensive agriculture and fisheries. The river serves as an important source of irrigation water and sustains the livelihoods of thousands of people in northern Bangladesh. Numerous chars (river islands) have formed along its course, creating unique but vulnerable communities. However, riverbank erosion, unpredictable flooding, sediment deposition, and the effects of climate change continue to threaten the people and ecosystems dependent on the Dharla. Despite these challenges, the river remains a vital component of the hydrology and economy of the Rangpur region.",
+  "details_bn": "ধরলা নদী উত্তর বাংলাদেশের অন্যতম গুরুত্বপূর্ণ আন্তঃসীমান্ত নদী এবং ব্রহ্মপুত্র (যমুনা) নদীর একটি প্রধান উপনদী। ভারত ও ভুটানের হিমালয় পাদদেশ থেকে উৎপন্ন হয়ে নদীটি লালমনিরহাট জেলা দিয়ে বাংলাদেশে প্রবেশ করে কুড়িগ্রাম জেলার মধ্য দিয়ে প্রবাহিত হয়ে ব্রহ্মপুত্র নদে মিলিত হয়েছে। ধরলা একটি অত্যন্ত গতিশীল নদী, যার বৈশিষ্ট্য হলো ঘন ঘন গতিপথ পরিবর্তন, তীব্র নদীভাঙন এবং মৌসুমি বন্যা। বর্ষাকালে নদীর পানিপ্রবাহ দ্রুত বৃদ্ধি পায় এবং বিস্তীর্ণ এলাকা প্লাবিত করে জনবসতি ও কৃষিজমির ব্যাপক ক্ষতি সাধন করে। একই সঙ্গে এই বন্যার পানি পলিমাটি এনে বন্যাপ্রবণ সমভূমির উর্বরতা বৃদ্ধি করে এবং কৃষি ও মৎস্য সম্পদকে সমৃদ্ধ করে। নদীটি সেচের পানির একটি গুরুত্বপূর্ণ উৎস এবং উত্তরাঞ্চলের হাজারো মানুষের জীবিকার ভিত্তি। নদীর বুকে অসংখ্য চর গড়ে উঠেছে, যেখানে বিশেষ ধরনের কিন্তু ঝুঁকিপূর্ণ জনপদের সৃষ্টি হয়েছে। তবে নদীভাঙন, অনিয়ন্ত্রিত বন্যা, পলি জমা এবং জলবায়ু পরিবর্তনের প্রভাব ধরলা নদীনির্ভর জনগোষ্ঠী ও পরিবেশের জন্য বড় চ্যালেঞ্জ হয়ে দাঁড়িয়েছে। এসব সমস্যা সত্ত্বেও ধরলা নদী রংপুর অঞ্চলের জলপ্রবাহ ব্যবস্থা ও অর্থনীতির একটি অপরিহার্য অংশ হিসেবে গুরুত্বপূর্ণ ভূমিকা পালন করে যাচ্ছে।",
+  "divisions_en": [
+    "Rangpur"
+  ],
+  "divisions_bn": [
+    "রংপুর"
+  ],
+  "districts_en": [
+    "Lalmonirhat (The river enters Bangladesh through the district from India)",
+    "Kurigram (Flows through the district and joins the Brahmaputra (Jamuna) River near Kurigram Sadar)"
+  ],
+  "districts_bn": [
+    "লালমনিরহাট (ভারত থেকে বাংলাদেশে এই জেলার মাধ্যমে নদীটি প্রবেশ করেছে)",
+    "কুড়িগ্রাম (জেলার মধ্য দিয়ে প্রবাহিত হয়ে কুড়িগ্রাম সদর এলাকার কাছে ব্রহ্মপুত্র (যমুনা) নদীর সঙ্গে মিলিত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

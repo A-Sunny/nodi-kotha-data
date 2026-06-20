@@ -1,0 +1,33 @@
+{
+  "id": 24,
+  "slug": "0024_rupsha",
+  "name_en": "Rupsha",
+  "name_bn": "রূপসা",
+  "classification_en": "Tidal River / Estuarine River",
+  "classification_bn": "জোয়ার-ভাটার নদী / মোহনা নদী",
+  "parent_river_en": "Bhairab River",
+  "parent_river_bn": "ভৈরব নদী",
+  "origin_en": "Formed at Khulna city by the confluence of the Bhairab and Atrai river systems and flows southward before joining the Pasur River",
+  "origin_bn": "খুলনা শহরের কাছে ভৈরব ও আত্রাই নদী ব্যবস্থার মিলনস্থলে উৎপন্ন হয়ে দক্ষিণ দিকে প্রবাহিত হয়ে পশুর নদীর সঙ্গে মিলিত হয়েছে",
+  "length_km": 72,
+  "details_en": "The Rupsha River is one of the most important tidal rivers in southwestern Bangladesh and serves as the lifeline of Khulna city. It is formed near Khulna by the lower reaches of the Bhairab River and flows southward for approximately 72 kilometers before joining the Pasur River. The river is heavily influenced by the tides of the Bay of Bengal and forms part of the extensive estuarine network connected to the Sundarbans. Historically, the Rupsha has been a major route for trade and navigation, linking Khulna with Mongla Port and the coastal regions. Economically, the river supports fisheries, shrimp cultivation, river transport, and numerous industries located around Khulna. The famous Khan Jahan Ali Bridge spans the river and serves as a vital connection between Khulna and Bagerhat districts. Ecologically, the Rupsha provides an important transition zone between freshwater and saline environments and contributes to the hydrological balance of the Sundarbans ecosystem. However, increasing salinity, industrial pollution, overfishing, and siltation pose serious threats to the river's ecological health. Sustainable management of the Rupsha is essential for maintaining the economic prosperity and environmental stability of southwestern Bangladesh.",
+  "details_bn": "রূপসা নদী বাংলাদেশের দক্ষিণ-পশ্চিমাঞ্চলের অন্যতম গুরুত্বপূর্ণ জোয়ার-ভাটার নদী এবং খুলনা শহরের জীবনরেখা হিসেবে পরিচিত। খুলনা শহরের কাছে ভৈরব নদীর নিম্নপ্রবাহ থেকে উৎপন্ন হয়ে নদীটি প্রায় ৭২ কিলোমিটার দক্ষিণ দিকে প্রবাহিত হয়ে পশুর নদীর সঙ্গে মিলিত হয়েছে। বঙ্গোপসাগরের জোয়ার-ভাটার প্রবল প্রভাবের কারণে নদীটি সুন্দরবনসংলগ্ন বিস্তৃত মোহনা নদী ব্যবস্থার অংশে পরিণত হয়েছে। ঐতিহাসিকভাবে রূপসা নদী খুলনা, মোংলা বন্দর এবং উপকূলীয় অঞ্চলের মধ্যে নৌ-বাণিজ্য ও যোগাযোগের একটি গুরুত্বপূর্ণ পথ হিসেবে ব্যবহৃত হয়ে আসছে। অর্থনৈতিকভাবে নদীটি মৎস্য সম্পদ, চিংড়ি চাষ, নৌ-পরিবহন এবং খুলনা অঞ্চলের বিভিন্ন শিল্পকারখানাকে সহায়তা করে। বিখ্যাত খান জাহান আলী সেতু এই নদীর ওপর নির্মিত হয়েছে, যা খুলনা ও বাগেরহাট জেলার মধ্যে গুরুত্বপূর্ণ যোগাযোগ স্থাপন করেছে। পরিবেশগতভাবে রূপসা নদী মিঠা ও লবণাক্ত পানির মধ্যবর্তী একটি গুরুত্বপূর্ণ সংক্রমণ অঞ্চল গঠন করে এবং সুন্দরবনের জলবৈচিত্র্য ও জলপ্রবাহের ভারসাম্য রক্ষায় গুরুত্বপূর্ণ ভূমিকা পালন করে। তবে ক্রমবর্ধমান লবণাক্ততা, শিল্প দূষণ, অতিরিক্ত মাছ আহরণ এবং পলি জমার কারণে নদীটির পরিবেশগত স্বাস্থ্য হুমকির মুখে রয়েছে। দক্ষিণ-পশ্চিমাঞ্চলের অর্থনৈতিক সমৃদ্ধি ও পরিবেশগত স্থিতিশীলতা বজায় রাখতে রূপসা নদীর টেকসই ব্যবস্থাপনা অত্যন্ত গুরুত্বপূর্ণ।",
+  "divisions_en": [
+    "Khulna"
+  ],
+  "divisions_bn": [
+    "খুলনা"
+  ],
+  "districts_en": [
+    "Khulna (Flows through the eastern side of Khulna city and forms an important transport and industrial corridor)",
+    "Bagerhat (Forms part of the western boundary of the district before joining the Pasur River)"
+  ],
+  "districts_bn": [
+    "খুলনা (খুলনা শহরের পূর্ব পাশ দিয়ে প্রবাহিত হয়ে গুরুত্বপূর্ণ নৌ-যোগাযোগ ও শিল্পাঞ্চল গঠন করেছে)",
+    "বাগেরহাট (জেলার পশ্চিমাংশ ঘেঁষে প্রবাহিত হয়ে পশুর নদীর সঙ্গে মিলিত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

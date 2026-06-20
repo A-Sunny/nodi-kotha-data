@@ -1,0 +1,37 @@
+{
+  "id": 21,
+  "slug": "0021_kumar",
+  "name_en": "Kumar",
+  "name_bn": "কুমার",
+  "classification_en": "Major River / Distributary",
+  "classification_bn": "প্রধান নদী / শাখা নদী",
+  "parent_river_en": "Madhumati River",
+  "parent_river_bn": "মধুমতি নদী",
+  "origin_en": "Branches off from the Madhumati River near Narail and flows eastward through Faridpur and Madaripur districts before joining the Arial Khan River system",
+  "origin_bn": "নড়াইলের কাছে মধুমতি নদী থেকে শাখা হিসেবে উৎপন্ন হয়ে পূর্বদিকে প্রবাহিত হয়ে ফরিদপুর ও মাদারীপুর জেলার মধ্য দিয়ে প্রবাহিত হয়ে আড়িয়াল খাঁ নদী ব্যবস্থার সঙ্গে যুক্ত হয়েছে",
+  "length_km": 120,
+  "details_en": "The Kumar River is an important distributary of the Madhumati River and one of the principal rivers of central and southwestern Bangladesh. Originating from the Madhumati near Narail, the river flows eastward through Faridpur and Madaripur districts, forming a complex network of channels and floodplains. Historically, the Kumar served as a vital waterway for transportation, trade, agriculture, and fisheries, linking numerous rural settlements and marketplaces. The river is particularly significant for supporting irrigation and maintaining the fertility of the surrounding alluvial plains. Several towns and villages have developed along its banks, benefiting from its abundant water resources. During the monsoon season, the Kumar contributes to floodplain replenishment and groundwater recharge, which are essential for agriculture. However, over the years, the river has experienced extensive siltation, narrowing of channels, and reduced navigability. Encroachment and seasonal water shortages have further affected its ecological health and economic importance. Various dredging and river management programs have been undertaken to restore the natural flow and sustain the livelihoods dependent on the river.",
+  "details_bn": "কুমার নদী মধুমতি নদীর একটি গুরুত্বপূর্ণ শাখা এবং বাংলাদেশের মধ্য ও দক্ষিণ-পশ্চিমাঞ্চলের অন্যতম প্রধান নদী। নড়াইলের কাছে মধুমতি নদী থেকে উৎপন্ন হয়ে নদীটি ফরিদপুর ও মাদারীপুর জেলার মধ্য দিয়ে পূর্বদিকে প্রবাহিত হয়ে বিস্তৃত বন্যাপ্রবণ সমভূমি ও জলপথের একটি জটিল নেটওয়ার্ক সৃষ্টি করেছে। ঐতিহাসিকভাবে কুমার নদী নৌ-পরিবহন, বাণিজ্য, কৃষি এবং মৎস্য সম্পদের জন্য অত্যন্ত গুরুত্বপূর্ণ ছিল এবং এর মাধ্যমে বহু গ্রামীণ জনপদ ও বাজার পরস্পরের সঙ্গে সংযুক্ত ছিল। নদীটি বিশেষভাবে কৃষি সেচ ও আশেপাশের পলিমাটির উর্বরতা বজায় রাখতে গুরুত্বপূর্ণ ভূমিকা পালন করে। এর তীরে বহু শহর ও গ্রাম গড়ে উঠেছে, যেগুলো নদীর পানি ও প্রাকৃতিক সম্পদের ওপর নির্ভরশীল। বর্ষাকালে কুমার নদী আশেপাশের বন্যাভূমিকে পুনরুজ্জীবিত করে এবং ভূগর্ভস্থ পানির পুনঃভরণে সহায়তা করে, যা কৃষির জন্য অত্যন্ত গুরুত্বপূর্ণ। তবে সময়ের সঙ্গে সঙ্গে নদীতে ব্যাপক পলি জমা, প্রবাহপথ সংকুচিত হওয়া এবং নাব্যতা হ্রাসের সমস্যা দেখা দিয়েছে। নদীদখল এবং মৌসুমি পানির স্বল্পতা এর পরিবেশগত ভারসাম্য ও অর্থনৈতিক গুরুত্বকে ক্ষতিগ্রস্ত করেছে। নদীর স্বাভাবিক প্রবাহ পুনরুদ্ধার এবং নদীনির্ভর জনগোষ্ঠীর জীবিকা রক্ষার জন্য বিভিন্ন সময়ে খনন ও ব্যবস্থাপনা প্রকল্প গ্রহণ করা হয়েছে।",
+  "divisions_en": [
+    "Khulna",
+    "Dhaka"
+  ],
+  "divisions_bn": [
+    "খুলনা",
+    "ঢাকা"
+  ],
+  "districts_en": [
+    "Narail (Originates from the Madhumati River near the district)",
+    "Faridpur (Flows through the central part of the district and supports agriculture and fisheries)",
+    "Madaripur (Flows through the western part of the district before connecting with the Arial Khan river system)"
+  ],
+  "districts_bn": [
+    "নড়াইল (জেলার কাছে মধুমতি নদী থেকে উৎপন্ন হয়েছে)",
+    "ফরিদপুর (জেলার মধ্যভাগ দিয়ে প্রবাহিত হয়ে কৃষি ও মৎস্য সম্পদকে সমর্থন করেছে)",
+    "মাদারীপুর (জেলার পশ্চিমাংশ দিয়ে প্রবাহিত হয়ে আড়িয়াল খাঁ নদী ব্যবস্থার সঙ্গে যুক্ত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}

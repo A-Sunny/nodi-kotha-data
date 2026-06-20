@@ -1,0 +1,37 @@
+{
+  "id": 20,
+  "slug": "0020_kopotakkho",
+  "name_en": "Kopotakkho",
+  "name_bn": "কপোতাক্ষ",
+  "classification_en": "Major River / Distributary",
+  "classification_bn": "প্রধান নদী / শাখা নদী",
+  "parent_river_en": "Mathabhanga River",
+  "parent_river_bn": "মাথাভাঙ্গা নদী",
+  "origin_en": "Branches off from the Mathabhanga River near Alamdanga in Chuadanga district and flows southward through southwestern Bangladesh before joining the Sibsa river system",
+  "origin_bn": "চুয়াডাঙ্গা জেলার আলমডাঙ্গার কাছে মাথাভাঙ্গা নদী থেকে শাখা হিসেবে উৎপন্ন হয়ে দক্ষিণ দিকে প্রবাহিত হয়ে দক্ষিণ-পশ্চিম বাংলাদেশের শিবসা নদী ব্যবস্থার সঙ্গে যুক্ত হয়েছে",
+  "length_km": 180,
+  "details_en": "The Kopotakkho River is one of the most historically and culturally significant rivers of southwestern Bangladesh. Originating as a distributary of the Mathabhanga River near Alamdanga in Chuadanga district, the river flows southward through Jhenaidah, Jessore, and Satkhira districts before eventually joining the tidal river network that connects with the Bay of Bengal. The river is especially renowned as the river of the celebrated Bengali poet Michael Madhusudan Dutt, whose birthplace at Sagardari in Jessore lies on its banks. For centuries, the Kopotakkho served as a major route for inland navigation, trade, agriculture, and fisheries, supporting numerous settlements and markets. Its calm and picturesque course has inspired countless literary works and songs, making it one of the most iconic rivers in Bengali culture. However, like many rivers of southwestern Bangladesh, the Kopotakkho has suffered severe degradation due to siltation, reduced upstream flow, and encroachment. Large sections of the river have become shallow or nearly dead during the dry season, causing waterlogging, disruption of navigation, and ecological damage. Various dredging and restoration projects have been undertaken in an effort to revive the river and restore its historic and environmental importance.",
+  "details_bn": "কপোতাক্ষ নদী বাংলাদেশের দক্ষিণ-পশ্চিমাঞ্চলের অন্যতম ঐতিহাসিক ও সাংস্কৃতিকভাবে গুরুত্বপূর্ণ নদী। চুয়াডাঙ্গা জেলার আলমডাঙ্গার কাছে মাথাভাঙ্গা নদী থেকে শাখা হিসেবে উৎপন্ন হয়ে নদীটি ঝিনাইদহ, যশোর ও সাতক্ষীরা জেলার মধ্য দিয়ে দক্ষিণ দিকে প্রবাহিত হয়ে জোয়ার-ভাটার নদী ব্যবস্থার সঙ্গে মিলিত হয়েছে, যা পরবর্তীতে বঙ্গোপসাগরের সঙ্গে সংযুক্ত হয়েছে। নদীটি বিশেষভাবে বিখ্যাত কারণ এর তীরে যশোরের সাগরদাঁড়িতে জন্মগ্রহণ করেছিলেন বাংলা সাহিত্যের প্রখ্যাত কবি মাইকেল মধুসূদন দত্ত। শতাব্দীর পর শতাব্দী ধরে কপোতাক্ষ নদী নৌ-পরিবহন, বাণিজ্য, কৃষি ও মৎস্য সম্পদের জন্য একটি গুরুত্বপূর্ণ জলপথ হিসেবে ব্যবহৃত হয়েছে এবং এর তীরে বহু জনপদ ও বাজার গড়ে উঠেছে। নদীর শান্ত ও মনোরম প্রবাহ বাংলা সাহিত্য ও সংগীতে বিশেষ স্থান দখল করে আছে। তবে দক্ষিণ-পশ্চিমাঞ্চলের অন্যান্য নদীর মতো কপোতাক্ষ নদীও পলি জমা, উজানের পানিপ্রবাহ হ্রাস এবং নদীদখলের কারণে মারাত্মক সংকটের সম্মুখীন হয়েছে। শুষ্ক মৌসুমে নদীর অনেক অংশ অগভীর বা প্রায় মৃতপ্রায় হয়ে পড়ে, যার ফলে জলাবদ্ধতা, নৌ-যোগাযোগে বিঘ্ন এবং পরিবেশগত ক্ষতি দেখা দিয়েছে। নদীটির ঐতিহাসিক ও পরিবেশগত গুরুত্ব পুনরুদ্ধারের লক্ষ্যে বিভিন্ন সময়ে খনন ও পুনরুদ্ধার প্রকল্প গ্রহণ করা হয়েছে।",
+  "divisions_en": [
+    "Khulna"
+  ],
+  "divisions_bn": [
+    "খুলনা"
+  ],
+  "districts_en": [
+    "Chuadanga (Originates from the Mathabhanga River near Alamdanga)",
+    "Jhenaidah (Flows through the southern part of the district)",
+    "Jessore (Passes through Keshabpur and Sagardari, the birthplace of Michael Madhusudan Dutt)",
+    "Satkhira (Flows through the eastern part of the district before joining the tidal river network)"
+  ],
+  "districts_bn": [
+    "চুয়াডাঙ্গা (আলমডাঙ্গার কাছে মাথাভাঙ্গা নদী থেকে উৎপন্ন হয়েছে)",
+    "ঝিনাইদহ (জেলার দক্ষিণাংশ দিয়ে প্রবাহিত হয়েছে)",
+    "যশোর (কেশবপুর ও সাগরদাঁড়ির পাশ দিয়ে প্রবাহিত হয়েছে, যেখানে কবি মাইকেল মধুসূদন দত্ত জন্মগ্রহণ করেন)",
+    "সাতক্ষীরা (জেলার পূর্বাংশ দিয়ে প্রবাহিত হয়ে জোয়ার-ভাটার নদী ব্যবস্থার সঙ্গে মিলিত হয়েছে)"
+  ],
+  "paths": [
+
+  ],
+  "updated_at": "2026-06-20"
+}
